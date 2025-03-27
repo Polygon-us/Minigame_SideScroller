@@ -1,6 +1,6 @@
 ﻿using UnityEngine.InputSystem;
+using Attributes.ReadOnly;
 using UnityEngine;
-using System;
 
 namespace Character
 {
@@ -9,10 +9,11 @@ namespace Character
     public class CharacterMovement : MonoBehaviour
     {
         [SerializeField] private float acceleration;
+        [SerializeField] private float deceleration;
         [SerializeField] private float maxSpeed;
         [SerializeField] private float jumpForce;
-        [SerializeField] private float gravityMultiplier;
-
+        [ReadOnly, SerializeField] private float velocity;
+        
         private GroundChecker _groundChecker;
         private Rigidbody2D _rb;
         private MoveActions _moveActions;
@@ -38,25 +39,36 @@ namespace Character
             _groundChecker = GetComponent<GroundChecker>();
             
             _moveActions = new MoveActions();
-            _moveActions.Player.Jump.performed += OnJump;
+            _moveActions.Player.Jump.performed += OnJumpPerformed;
         }
 
         private void Update()
         {
-            if (_moveActions.Player.Jump.IsInProgress())
+            if (_moveActions.Player.Move.IsInProgress())
                 Move();
-        }
-
-        private void Move()
-        {
-            _rb.linearVelocityX += moveSpeed * _moveActions.Player.Move.ReadValue<Vector2>().x * Time.deltaTime;
-            _rb.linearVelocityX = MathF.Clamp(_rb.linearVelocityX, 0, maxSpeed);
+            else
+                Decelerate();
         }
         
-        private void OnJump(InputAction.CallbackContext context)
+        private void Move()
+        {
+            _rb.linearVelocityX += acceleration * _moveActions.Player.Move.ReadValue<Vector2>().x * Time.deltaTime;
+            _rb.linearVelocityX = Mathf.Clamp(_rb.linearVelocityX, -maxSpeed, maxSpeed);
+            
+            velocity = _rb.linearVelocityX;
+        }
+
+        private void Decelerate()
+        {
+            _rb.linearVelocityX -= Mathf.Sign(_rb.linearVelocityX) * deceleration * Time.deltaTime;
+            if (Mathf.Approximately(_rb.linearVelocityX, 0.0f))
+                _rb.linearVelocityX = 0;
+        }
+        
+        private void OnJumpPerformed(InputAction.CallbackContext context)
         {
             if (_groundChecker.IsGrounded)
-                _rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+                _rb.linearVelocityY = jumpForce * _moveActions.Player.Jump.ReadValue<float>();
         }
     }
 }

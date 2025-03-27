@@ -508,9 +508,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c84098dfe2b4dc39b82b42d2664fa9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 15
-  jumpForce: 10
-  gravityMultiplier: 1
+  acceleration: 15
+  deceleration: 12
+  maxSpeed: 7
+  jumpForce: 20
+  velocity: 0
 --- !u!114 &1633679577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -536,10 +538,10 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
   m_Mass: 1.7853982
-  m_LinearDamping: 3
+  m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_GravityScale: 5
+  m_Material: {fileID: 6200000, guid: 2be64a9a59d81064694c7374a96db75b, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
