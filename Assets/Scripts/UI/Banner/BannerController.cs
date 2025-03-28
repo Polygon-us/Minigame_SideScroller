@@ -3,20 +3,15 @@ using TMPro;
 
 namespace UI.Banner
 {
-    public class BannerController : MonoBehaviour
+    public class BannerController : MenuBase
     {
-        [SerializeField] private RectTransform panel;
         [SerializeField] private TMP_Text msgText;
 
-        public void Open(string text)
+        public void Show(string text)
         {
-            panel.gameObject.SetActive(true);
+            base.Show();
+            
             msgText.text = text;
-        }
-
-        public void Close()
-        {
-            panel.gameObject.SetActive(false);
         }
     }
 }

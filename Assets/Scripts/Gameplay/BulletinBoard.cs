@@ -4,8 +4,7 @@ using Utils;
 
 namespace Gameplay
 {
-    [RequireComponent(typeof(Collider2D))]
-    public class BulletinBoard : MonoBehaviour
+    public class BulletinBoard : Triggerer
     {
         [SerializeField, TextArea] private string bannerText;
 
@@ -16,16 +15,16 @@ namespace Gameplay
             _bannerController = FindAnyObjectByType<BannerController>(FindObjectsInactive.Include);
         }
 
-        private void OnTriggerEnter2D(Collider2D other)
+        protected override void OnTriggerEnter2D(Collider2D other)
         {
             if (other.CompareTag(TagsTypes.PlayerTag))
-                _bannerController.Open(bannerText);
+                _bannerController.Show(bannerText);
         }
 
-        private void OnTriggerExit2D(Collider2D other)
+        protected override void OnTriggerExit2D(Collider2D other)
         {
             if (other.CompareTag(TagsTypes.PlayerTag))
-                _bannerController.Close();
+                _bannerController.Hide();
         }
     }
 }

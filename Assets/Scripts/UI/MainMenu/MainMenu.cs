@@ -4,12 +4,14 @@ using UnityEngine;
 
 namespace UI.MainMenu
 {
-    public class MainMenuController : MonoBehaviour
+    public class MainMenu : MenuBase
     {
         [SerializeField] private Button startButton;
 
-        private void Awake()
+        protected override void Awake()
         {
+            base.Awake();
+            
             startButton.onClick.AddListener(StartGame);
         }
 
