@@ -6,5 +6,10 @@ namespace UI.Gameplay
     { 
         [SerializeField] private TutorialMenu tutorialMenu;
         [SerializeField] private EndMenu endMenu;
+
+        private void Start()
+        {
+            tutorialMenu.Show();
+        }
     }
 }

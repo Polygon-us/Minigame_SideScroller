@@ -150,7 +150,7 @@ MonoBehaviour:
     duration: 0.2
     inEase: 9
     outEase: 8
-  startOpened: 1
+  startOpened: 0
   closeButton: {fileID: 8892224682853357365}
 --- !u!1 &1963998926351835455
 GameObject:

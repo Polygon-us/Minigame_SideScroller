@@ -18,13 +18,12 @@ namespace UI
         protected virtual void Awake()
         {
             CanvasGroup = GetComponent<CanvasGroup>();
-        }
-
-        protected virtual void Start()
-        {
+            
             CanvasGroup.alpha = startOpened ? 1 : 0;
             SetInteractable(startOpened);
         }
+
+        protected virtual void Start() {}
 
         public virtual void Show()
         {
