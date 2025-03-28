@@ -1608,7 +1608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc6b8d13f361e432dbb8c7b547052dd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _initialCharacterCanMove: 1
+  _initialCharacterCanMove: 0
   CharacterCanMove: 0
 --- !u!1 &1967882417
 GameObject:

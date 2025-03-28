@@ -9,8 +9,8 @@ namespace UI
     [RequireComponent(typeof(Canvas), typeof(GraphicRaycaster))]
     public abstract class MenuBase : MonoBehaviour
     {
-        [SerializeField] private TweenParams tweenParams;
-        [SerializeField] private bool startOpened;
+        [SerializeField] protected TweenParams tweenParams;
+        [SerializeField] protected bool startOpened;
 
         protected CanvasGroup CanvasGroup;
         protected RectTransform RectTransform => transform as RectTransform;
@@ -33,6 +33,7 @@ namespace UI
                 .OnComplete(() =>
                 {
                     SetInteractable(true);
+                    OnShowCompleted();
                 });
         }
 
@@ -40,8 +41,12 @@ namespace UI
         {
             SetInteractable(false);
             CanvasGroup.DOFade(0, tweenParams.duration)
-                .SetEase(tweenParams.outEase);
+                .SetEase(tweenParams.outEase)
+                .OnComplete(OnHideCompleted);
         }
+
+        protected virtual void OnShowCompleted(){}
+        protected virtual void OnHideCompleted(){}
 
         public void Internal_Show()
         {
