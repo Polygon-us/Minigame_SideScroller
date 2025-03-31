@@ -14,7 +14,6 @@ namespace UI
         [SerializeField] protected bool startOpened;
 
         protected CanvasGroup CanvasGroup;
-        protected RectTransform RectTransform => transform as RectTransform;
 
         public Action OnShowComplete;
         public Action OnHideComplete;
