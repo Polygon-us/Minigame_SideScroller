@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Attributes.ReadOnly;
 using UnityEngine;
 
 
@@ -8,7 +9,7 @@ namespace GMTK.PlatformerToolkit {
         public static movementLimiter instance;
 
         [SerializeField] bool _initialCharacterCanMove = true;
-        public bool CharacterCanMove;
+        [ReadOnly] public bool CharacterCanMove;
 
         private void OnEnable() {
             instance = this;
