@@ -2,6 +2,7 @@
 using UnityEngine.UI;
 using DG.Tweening;
 using UnityEngine;
+using System;
 
 namespace UI
 {
@@ -15,6 +16,9 @@ namespace UI
         protected CanvasGroup CanvasGroup;
         protected RectTransform RectTransform => transform as RectTransform;
 
+        public Action OnShowComplete;
+        public Action OnHideComplete;
+        
         protected virtual void Awake()
         {
             CanvasGroup = GetComponent<CanvasGroup>();
@@ -32,7 +36,7 @@ namespace UI
                 .OnComplete(() =>
                 {
                     SetInteractable(true);
-                    OnShowCompleted();
+                    OnShowComplete?.Invoke();
                 });
         }
 
@@ -41,11 +45,8 @@ namespace UI
             SetInteractable(false);
             CanvasGroup.DOFade(0, tweenParams.duration)
                 .SetEase(tweenParams.outEase)
-                .OnComplete(OnHideCompleted);
+                .OnComplete(() => OnHideComplete?.Invoke());
         }
-
-        protected virtual void OnShowCompleted(){}
-        protected virtual void OnHideCompleted(){}
 
         public void Internal_Show()
         {

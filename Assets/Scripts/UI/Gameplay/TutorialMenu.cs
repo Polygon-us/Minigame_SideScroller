@@ -12,9 +12,11 @@ namespace UI.Gameplay
         {
             base.Awake();
             closeButton.onClick.AddListener(Hide);
+
+            OnHideComplete += CharacterMove;
         }
 
-        protected override void OnHideCompleted()
+        private void CharacterMove()
         {
             movementLimiter.instance.CharacterCanMove = true;
         }
