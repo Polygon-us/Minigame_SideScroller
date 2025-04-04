@@ -1,6 +1,6 @@
-using TMPro;
-using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine;
+using TMPro;
 
 namespace UI.Gameplay
 {
