@@ -1,2 +1,2 @@
 # Minigame_MathGenius
-Mati-as el Genio de las Matemáticas
+Mati-as el As de las Matemáticas
