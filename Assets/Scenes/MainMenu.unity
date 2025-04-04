@@ -405,7 +405,7 @@ MonoBehaviour:
   m_text: Juega
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 69ea829b72aecfb40b5b034f785ffef3, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: f5fc7333dc9286542bf7a6cb38a90f26, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: ca97a3b7456cb9641ba0337a229d7972, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

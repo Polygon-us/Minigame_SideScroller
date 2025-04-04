@@ -18,5 +18,13 @@ namespace UI.Gameplay
         {
             mobileInputMenuMenu.Show();
         }
+
+        public void ToggleMobileInput(bool enable)
+        {
+            if (enable)
+                mobileInputMenuMenu.Show();
+            else
+                mobileInputMenuMenu.Hide();
+        }
     }
 }
