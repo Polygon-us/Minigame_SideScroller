@@ -9,14 +9,18 @@ namespace UI.Generic
         [SerializeField] private TweenParams tweenParams;
 
         private int _tweenId;
+        private TMP_Text _text;
         private Color _initialColor;
         private Material _fontMaterial;
 
         private readonly int colorProperty = Shader.PropertyToID("_OutlineColor");
-        
+
         private void Awake()
         {
-            _fontMaterial = GetComponent<TMP_Text>().fontSharedMaterial;
+            _text = GetComponent<TMP_Text>();
+            _fontMaterial = new Material(_text.fontSharedMaterial);
+            _text.fontSharedMaterial = _fontMaterial;
+            
             _initialColor = _fontMaterial.GetColor(colorProperty);
         }
 

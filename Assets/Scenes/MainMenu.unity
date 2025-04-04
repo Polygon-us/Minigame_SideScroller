@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 66131875}
   - component: {fileID: 66131874}
   - component: {fileID: 66131873}
+  - component: {fileID: 66131876}
   m_Layer: 5
   m_Name: StartBtn
   m_TagString: Untagged
@@ -240,6 +241,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 66131871}
   m_CullTransparentMesh: 1
+--- !u!114 &66131876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66131871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5954acf06eb4fe4b85642171ae541cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scale: 1.2
+  tweenParams:
+    duration: 0.2
+    inType: 6
+    outType: 20
 --- !u!1 &156143462
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,6 +355,7 @@ GameObject:
   - component: {fileID: 287918588}
   - component: {fileID: 287918590}
   - component: {fileID: 287918589}
+  - component: {fileID: 287918591}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -386,7 +405,7 @@ MonoBehaviour:
   m_text: Juega
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 69ea829b72aecfb40b5b034f785ffef3, type: 2}
-  m_sharedMaterial: {fileID: -8226665811254307115, guid: 69ea829b72aecfb40b5b034f785ffef3, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: f5fc7333dc9286542bf7a6cb38a90f26, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -462,6 +481,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 287918587}
   m_CullTransparentMesh: 1
+--- !u!114 &287918591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 287918587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef75f8b534fedbd47bc3df21299c622e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenParams:
+    duration: 0.2
+    inType: 6
+    outType: 20
 --- !u!1 &471785385
 GameObject:
   m_ObjectHideFlags: 0
