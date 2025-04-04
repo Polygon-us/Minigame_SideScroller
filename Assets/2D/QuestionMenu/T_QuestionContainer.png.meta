@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e98675f535b0df648a69be6720fca906
+guid: 804f142053277dd44889264d79888c68
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8514103084838153926
-    second: CornerPanelRadius_50px_Fill_0
+      213: -5434349683583370100
+    second: T_QuestionContainer_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CornerPanelRadius_50px_Fill_0
+      name: T_QuestionContainer_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 273
-        height: 100
+        width: 850
+        height: 655
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6cee5d065ab282670800000000000000
-      internalID: 8514103084838153926
+      spriteID: c8cb1c451cf4594b0800000000000000
+      internalID: -5434349683583370100
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      CornerPanelRadius_50px_Fill_0: 8514103084838153926
+      T_QuestionContainer_0: -5434349683583370100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
