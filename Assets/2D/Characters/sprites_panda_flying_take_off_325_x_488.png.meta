@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: c033a97c0352c6542b0e9d7499e2812f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6312816848298330188
+    second: sprites_panda_flying_take_off_325_x_488_0
+  - first:
+      213: 8913147438983394911
+    second: sprites_panda_flying_take_off_325_x_488_1
+  - first:
+      213: -2933785083111435186
+    second: sprites_panda_flying_take_off_325_x_488_2
+  - first:
+      213: 7153359975617477650
+    second: sprites_panda_flying_take_off_325_x_488_3
+  - first:
+      213: 3450721815360345340
+    second: sprites_panda_flying_take_off_325_x_488_4
+  - first:
+      213: -1558494311671523818
+    second: sprites_panda_flying_take_off_325_x_488_5
+  - first:
+      213: -6985755314443141837
+    second: sprites_panda_flying_take_off_325_x_488_6
+  - first:
+      213: -4570194975770670641
+    second: sprites_panda_flying_take_off_325_x_488_7
+  - first:
+      213: 2111694208325947352
+    second: sprites_panda_flying_take_off_325_x_488_8
+  - first:
+      213: 196820353703365604
+    second: sprites_panda_flying_take_off_325_x_488_9
+  - first:
+      213: 1412603426690193441
+    second: sprites_panda_flying_take_off_325_x_488_10
+  - first:
+      213: -1437381702440308221
+    second: sprites_panda_flying_take_off_325_x_488_11
+  - first:
+      213: -2070470752605971600
+    second: sprites_panda_flying_take_off_325_x_488_12
+  - first:
+      213: -1313793796372811861
+    second: sprites_panda_flying_take_off_325_x_488_13
+  - first:
+      213: -6302926401873009590
+    second: sprites_panda_flying_take_off_325_x_488_14
+  - first:
+      213: -3501066585531359226
+    second: sprites_panda_flying_take_off_325_x_488_15
+  - first:
+      213: 5349729742270040368
+    second: sprites_panda_flying_take_off_325_x_488_16
+  - first:
+      213: 7731716255842424696
+    second: sprites_panda_flying_take_off_325_x_488_17
+  - first:
+      213: 4032542271996722400
+    second: sprites_panda_flying_take_off_325_x_488_18
+  - first:
+      213: 1221288408141426253
+    second: sprites_panda_flying_take_off_325_x_488_19
+  - first:
+      213: -7466429595460144839
+    second: sprites_panda_flying_take_off_325_x_488_20
+  - first:
+      213: -9105871629605728046
+    second: sprites_panda_flying_take_off_325_x_488_21
+  - first:
+      213: 2673987279390537196
+    second: sprites_panda_flying_take_off_325_x_488_22
+  - first:
+      213: -8246406748683248174
+    second: sprites_panda_flying_take_off_325_x_488_23
+  - first:
+      213: 7877221360812536776
+    second: sprites_panda_flying_take_off_325_x_488_24
+  - first:
+      213: -1190930603192362819
+    second: sprites_panda_flying_take_off_325_x_488_25
+  - first:
+      213: 4536244052091971804
+    second: sprites_panda_flying_take_off_325_x_488_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb2f20b23c332a4dbb6ae22c52d2476
+      internalID: -376964308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44be8c350d925148950c338a6a93da0
+      internalID: -1194980354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a525527b457882c4cb2d6f797c4de419
+      internalID: 1835262925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0aeddfd5f6cc48ace8ff9b7a8859c
+      internalID: 752132310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_4
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d4291b09e936c47b4d6e7e2f0696c6
+      internalID: -1794629674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_5
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24eab0642c7874aba1b8999547cc30
+      internalID: 862345648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_6
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bd18101aecff944b7ea1b0a360775b
+      internalID: -989533621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_7
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d959ca44cc17cd4e9fcfd7e3e1f6adc
+      internalID: 57488521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_8
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fa07241fd0d6245a243efb03a2f35f
+      internalID: 814814800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_9
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2419d10d399628843b6760db61c4f070
+      internalID: 282828888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_10
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2289a0d63da92084ebae3af687f4ce0a
+      internalID: 183773335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_11
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2664721b4723f647927e805e871ec43
+      internalID: 1812752664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_12
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c34f126f0849df47a509e1449ee73ac
+      internalID: -1296442551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_13
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f1900f09c94446b29c4cb7f6c592c
+      internalID: -1897412456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_14
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9f70779ad70c84a96d4c5d1c804fc6
+      internalID: -1302171433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_15
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8855218465e61e64ca4611f16e7cf1e4
+      internalID: 33765732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_16
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484db9a9e4eca3547b08fb160350907d
+      internalID: 1402518001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_17
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190f6c494b69ca547a1966fb08416453
+      internalID: 1911064906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_18
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a1b15f7b8ea145bb969210deeb66d
+      internalID: -1053579112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_19
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a09a4d6aee1ce40a4b911d8b10cc15
+      internalID: 1794336575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_20
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6fd527137e98f4997f1bd5b8366547
+      internalID: 1698895242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_21
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9acc5a040a8de4c85693791a25390c
+      internalID: 1200314181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_22
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b5f6a07c68cb4b944273381d027f2
+      internalID: -1328186925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_23
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb8285609b12c4b9559f88ca0775b0
+      internalID: 157264115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_24
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1eb6962d367a4c8d5e4cfc130fd9e
+      internalID: 1038380358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_25
+      rect:
+        serializedVersion: 2
+        x: 8125
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb84f5d798cd7f48bc4fb3cd4af6606
+      internalID: -2147352773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_take_off_325_x_488_26
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 0
+        width: 325
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a84d898e7b554bb1714b12eae004c
+      internalID: 1373834775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7324a9d5806dab74bbd639337f77676e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites_panda_flying_take_off_325_x_488_0: -376964308
+      sprites_panda_flying_take_off_325_x_488_1: -1194980354
+      sprites_panda_flying_take_off_325_x_488_10: 183773335
+      sprites_panda_flying_take_off_325_x_488_11: 1812752664
+      sprites_panda_flying_take_off_325_x_488_12: -1296442551
+      sprites_panda_flying_take_off_325_x_488_13: -1897412456
+      sprites_panda_flying_take_off_325_x_488_14: -1302171433
+      sprites_panda_flying_take_off_325_x_488_15: 33765732
+      sprites_panda_flying_take_off_325_x_488_16: 1402518001
+      sprites_panda_flying_take_off_325_x_488_17: 1911064906
+      sprites_panda_flying_take_off_325_x_488_18: -1053579112
+      sprites_panda_flying_take_off_325_x_488_19: 1794336575
+      sprites_panda_flying_take_off_325_x_488_2: 1835262925
+      sprites_panda_flying_take_off_325_x_488_20: 1698895242
+      sprites_panda_flying_take_off_325_x_488_21: 1200314181
+      sprites_panda_flying_take_off_325_x_488_22: -1328186925
+      sprites_panda_flying_take_off_325_x_488_23: 157264115
+      sprites_panda_flying_take_off_325_x_488_24: 1038380358
+      sprites_panda_flying_take_off_325_x_488_25: -2147352773
+      sprites_panda_flying_take_off_325_x_488_26: 1373834775
+      sprites_panda_flying_take_off_325_x_488_3: 752132310
+      sprites_panda_flying_take_off_325_x_488_4: -1794629674
+      sprites_panda_flying_take_off_325_x_488_5: 862345648
+      sprites_panda_flying_take_off_325_x_488_6: -989533621
+      sprites_panda_flying_take_off_325_x_488_7: 57488521
+      sprites_panda_flying_take_off_325_x_488_8: 814814800
+      sprites_panda_flying_take_off_325_x_488_9: 282828888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

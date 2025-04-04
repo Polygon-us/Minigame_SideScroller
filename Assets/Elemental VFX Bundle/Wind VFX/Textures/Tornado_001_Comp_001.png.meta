@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: b7bd72e4338de864282dd94050f7d281
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9038798445192964569
+    second: Tornado_001_Comp_001_0
+  - first:
+      213: -7176681652323173671
+    second: Tornado_001_Comp_001_1
+  - first:
+      213: 3047529568973941389
+    second: Tornado_001_Comp_001_2
+  - first:
+      213: -7386820176584755244
+    second: Tornado_001_Comp_001_3
+  - first:
+      213: 2028441781729887547
+    second: Tornado_001_Comp_001_4
+  - first:
+      213: 971783342581987803
+    second: Tornado_001_Comp_001_5
+  - first:
+      213: -7674645407342785832
+    second: Tornado_001_Comp_001_6
+  - first:
+      213: 3578082062819714888
+    second: Tornado_001_Comp_001_7
+  - first:
+      213: -3775400344255005651
+    second: Tornado_001_Comp_001_8
+  - first:
+      213: -1851358873016887506
+    second: Tornado_001_Comp_001_9
+  - first:
+      213: -1063199325311736716
+    second: Tornado_001_Comp_001_10
+  - first:
+      213: 3840398268387001277
+    second: Tornado_001_Comp_001_11
+  - first:
+      213: 1073240889292591878
+    second: Tornado_001_Comp_001_12
+  - first:
+      213: -6931335821910694485
+    second: Tornado_001_Comp_001_13
+  - first:
+      213: -8029781696703741800
+    second: Tornado_001_Comp_001_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1229
+        width: 350
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9641adb43407d70800000000000000
+      internalID: 9038798445192964569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1226
+        width: 375
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab6379f0e476c90800000000000000
+      internalID: -7176681652323173671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_2
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1228
+        width: 379
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ae0391ffffa4a20800000000000000
+      internalID: 3047529568973941389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_3
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1235
+        width: 117
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d73afabf2ebc7990800000000000000
+      internalID: -7386820176584755244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_4
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1290
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350297ad09762c10800000000000000
+      internalID: 2028441781729887547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_5
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1227
+        width: 306
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9bd352dc77c7d00800000000000000
+      internalID: 971783342581987803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 716
+        width: 411
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da004ef9ae2e7590800000000000000
+      internalID: -7674645407342785832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 820
+        width: 177
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e09bbda6e7a130800000000000000
+      internalID: 3578082062819714888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 716
+        width: 414
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cfacbc3651b9bc0800000000000000
+      internalID: -3775400344255005651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_9
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 712
+        width: 405
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e279f06f9e6ae46e0800000000000000
+      internalID: -1851358873016887506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_10
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 718
+        width: 414
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474eb51c8d1ce31f0800000000000000
+      internalID: -1063199325311736716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 176
+        width: 396
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db38b37b0e5db4530800000000000000
+      internalID: 3840398268387001277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 188
+        width: 395
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60395bc07eae4ee00800000000000000
+      internalID: 1073240889292591878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_13
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 193
+        width: 420
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a2143bc2fecf90800000000000000
+      internalID: -6931335821910694485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado_001_Comp_001_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 188
+        width: 380
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8904a08271c709090800000000000000
+      internalID: -8029781696703741800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
