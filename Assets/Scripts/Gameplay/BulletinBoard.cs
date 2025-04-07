@@ -1,5 +1,4 @@
 using UnityEngine;
-using UI.Banner;
 using UI.Gameplay;
 using Utils;
 
@@ -17,8 +16,8 @@ namespace Gameplay
 
         protected override void OnTriggerExit2D(Collider2D other)
         {
-            if (other.CompareTag(TagsTypes.PlayerTag))
-                questionMenu.Hide();
+            // if (other.CompareTag(TagsTypes.PlayerTag))
+            //     questionMenu.Hide();
         }
     }
 }
