@@ -1,31 +1,53 @@
-using UnityEngine;
 using UnityEngine.InputSystem;
+using Gameplay.Character;
+using UnityEngine;
 
 
 namespace GMTK.PlatformerToolkit {
     //This script handles moving the character on the Y axis, for jumping and gravity
 
-    public class characterJump : MonoBehaviour {
+    public class characterJump : MonoBehaviour, IJumpDataReceiver
+    {
         [Header("Components")]
         [HideInInspector] public Rigidbody2D body;
+        
         private characterGround ground;
+       
         [HideInInspector] public Vector2 velocity;
+       
         private characterJuice juice;
-
-
+        
         [Header("Jumping Stats")]
-        [SerializeField, Range(2f, 5.5f)][Tooltip("Maximum jump height")] public float jumpHeight = 7.3f;
-        [SerializeField, Range(0.2f, 1.25f)][Tooltip("How long it takes to reach that height before coming back down")] public float timeToJumpApex;
-        [SerializeField, Range(0f, 5f)][Tooltip("Gravity multiplier to apply when going up")] public float upwardMovementMultiplier = 1f;
-        [SerializeField, Range(1f, 10f)][Tooltip("Gravity multiplier to apply when coming down")] public float downwardMovementMultiplier = 6.17f;
-        [SerializeField, Range(0, 1)][Tooltip("How many times can you jump in the air?")] public int maxAirJumps = 0;
+        [SerializeField, Range(2f, 5.5f)][Tooltip("Maximum jump height")] 
+        public float jumpHeight { get; set; } = 7.3f;
+        
+        [SerializeField, Range(0.2f, 1.25f)][Tooltip("How long it takes to reach that height before coming back down")] 
+        public float timeToJumpApex{ get; set; }
+        
+        [SerializeField, Range(0f, 5f)][Tooltip("Gravity multiplier to apply when going up")] 
+        public float upwardMovementMultiplier { get; set; } = 1f;
+        
+        [SerializeField, Range(1f, 10f)][Tooltip("Gravity multiplier to apply when coming down")]
+        public float downwardMovementMultiplier { get; set; } = 6.17f;
+       
+        [SerializeField, Range(0, 1)][Tooltip("How many times can you jump in the air?")]
+        public int maxAirJumps { get; set; } = 0;
 
         [Header("Options")]
-        [Tooltip("Should the character drop when you let go of jump?")] public bool variablejumpHeight;
-        [SerializeField, Range(1f, 10f)][Tooltip("Gravity multiplier when you let go of jump")] public float jumpCutOff;
-        [SerializeField][Tooltip("The fastest speed the character can fall")] public float speedLimit;
-        [SerializeField, Range(0f, 0.3f)][Tooltip("How long should coyote time last?")] public float coyoteTime = 0.15f;
-        [SerializeField, Range(0f, 0.3f)][Tooltip("How far from ground should we cache your jump?")] public float jumpBuffer = 0.15f;
+        [Tooltip("Should the character drop when you let go of jump?")] 
+        public bool variablejumpHeight { get; set; }
+        
+        [SerializeField, Range(1f, 10f)][Tooltip("Gravity multiplier when you let go of jump")] 
+        public float jumpCutOff { get; set; }
+       
+        [SerializeField][Tooltip("The fastest speed the character can fall")] 
+        public float speedLimit;
+        
+        [SerializeField, Range(0f, 0.3f)][Tooltip("How long should coyote time last?")] 
+        public float coyoteTime = 0.15f;
+       
+        [SerializeField, Range(0f, 0.3f)][Tooltip("How far from ground should we cache your jump?")]
+        public float jumpBuffer = 0.15f;
 
         [Header("Calculations")]
         public float jumpSpeed;
