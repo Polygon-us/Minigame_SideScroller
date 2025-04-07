@@ -15,9 +15,9 @@ MonoBehaviour:
   messages:
   - impression: '!'
     poses: {fileID: 11400000, guid: 72ae2987581004548a2adedbfd6de279, type: 2}
-    message: "Cientificamente \r\npor donde yo vaya\r\nmi mente se enfoca\r\ncuando
+    message: "Cient\xEDficamente, \r\npor donde yo vaya\r\nmi mente se enfoca\r\ncuando
       todo falla."
   - impression: '!'
     poses: {fileID: 11400000, guid: 9ab35ffb0a7913e438cc1d79c5f801b1, type: 2}
-    message: "Resuelvo problemas\r\ny gano medallas\r\ncon las matem\xE1ticas\r\nde
-      mi atarraya!"
+    message: "Resuelvo problemas\r\ny gano medallas\r\n\xA1con las matem\xE1ticas\r\nde
+      mi <b>atarraya</b>!"

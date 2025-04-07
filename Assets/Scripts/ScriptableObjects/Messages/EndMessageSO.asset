@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 124238d0f301495d9e14d9419f9115d5, type: 3}
-  m_Name: SuccessMessageSO
+  m_Name: EndMessageSO
   m_EditorClassIdentifier: 
   messages:
   - impression: '!'
     poses: {fileID: 11400000, guid: 9ab35ffb0a7913e438cc1d79c5f801b1, type: 2}
-    message: "\xA1Muy bien! Has pasado la primera pureba de M4T1-As, el As de las
-      matem\xE1ticas."
+    message: "Gracias por jugar\nM4T1-As el As de las matem\xE1ticas"

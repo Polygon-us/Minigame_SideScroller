@@ -1,36 +1,37 @@
+using GMTK.PlatformerToolkit;
+using ScriptableObjects.Messages;
 using UnityEngine;
 
 namespace UI.Gameplay
 {
     public class UIManager : MonoBehaviour
     { 
-        [SerializeField] private TutorialMenu tutorialMenu;
         [SerializeField] private MessageMenu messageMenu;
-        [SerializeField] private EndMenu endMenu;
         [SerializeField] private MobileInput.MobileInputMenu mobileInputMenuMenu;
-
+        [SerializeField] private MessageInfoSO messageInfo;
+        
         private void Start()
         {
-            tutorialMenu.Show();
-            tutorialMenu.OnHideComplete += ShowMobileInput;
-        }
-
-        private void ShowMobileInput()
-        {
-            mobileInputMenuMenu.Show();
+            ToggleMobileInput(true);
         }
 
         public void ToggleMobileInput(bool enable)
         {
             if (enable)
+            {
+                movementLimiter.instance.CharacterCanMove = true;
                 mobileInputMenuMenu.Show();
+            }
             else
+            {
+                movementLimiter.instance.CharacterCanMove = false;
                 mobileInputMenuMenu.Hide();
+            }
         }
 
         public void ShowResult()
         {
-            messageMenu.Show();
+            messageMenu.Show(messageInfo);
         }
     }
 }
