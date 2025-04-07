@@ -26,12 +26,14 @@ namespace UI.Gameplay
 
             sendBtn.onClick.AddListener(OnSend);
             sendBtn.interactable = false;
-            messageTxt.text = questionInfo.questionMessage;
         }
 
         protected override void Start()
         {
             base.Start();
+
+            messageTxt.text = questionInfo.questionMessage;
+            impressionTxt.text = questionInfo.impression;
 
             foreach (var answer in questionInfo.answers)
             {
@@ -58,8 +60,7 @@ namespace UI.Gameplay
         {
             base.Hide();
 
-            uiManager.ToggleMobileInput(true);
-            movementLimiter.CharacterCanMove = true;
+            uiManager.ShowResult();
         }
 
         private void SetSelectedAnswer(Answer answer)

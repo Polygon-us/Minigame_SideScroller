@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1657020014578167695}
   - component: {fileID: 6030106212709898760}
   m_Layer: 5
-  m_Name: SendBtn
+  m_Name: PrimaryBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
