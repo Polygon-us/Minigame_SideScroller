@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UI.Gameplay.Question
+namespace ScriptableObjects.Questions
 {
     [Serializable]
     public struct Answer

@@ -1,9 +1,10 @@
+using ScriptableObjects.Questions;
 using UnityEngine.UI;
 using UnityEngine;
 using System;
 using TMPro;
 
-namespace UI.Gameplay.Question
+namespace UI.Gameplay
 {
     public class AnswerComponent : MonoBehaviour
     {

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 124238d0f301495d9e14d9419f9115d5, type: 3}
+  m_Name: RhymeMessageSO
+  m_EditorClassIdentifier: 
+  messages:
+  - impression: '!'
+    poses: {fileID: 11400000, guid: 72ae2987581004548a2adedbfd6de279, type: 2}
+    message: "Cientificamente \r\npor donde yo vaya\r\nmi mente se enfoca\r\ncuando
+      todo falla."
+  - impression: '!'
+    poses: {fileID: 11400000, guid: 9ab35ffb0a7913e438cc1d79c5f801b1, type: 2}
+    message: "Resuelvo problemas\r\ny gano medallas\r\ncon las matem\xE1ticas\r\nde
+      mi atarraya!"
