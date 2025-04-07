@@ -342,6 +342,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2184,7 +2210,90 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Burst_004.2_0: -6885949033455457145
+      Burst_004.2_1: 9083634923039631457
+      Burst_004.2_10: 483839488027535171
+      Burst_004.2_11: 5059477948452802789
+      Burst_004.2_12: -4149401034644753631
+      Burst_004.2_13: -6875864038439882420
+      Burst_004.2_14: 5006072893628911581
+      Burst_004.2_15: 529865327481966364
+      Burst_004.2_16: 6045693490306479280
+      Burst_004.2_17: 1197509220539574408
+      Burst_004.2_18: 4947881321233866329
+      Burst_004.2_19: 4365649048903589448
+      Burst_004.2_2: 4790932452923254287
+      Burst_004.2_20: -3762032316041651238
+      Burst_004.2_21: 221623305697896310
+      Burst_004.2_22: -6484886939830406213
+      Burst_004.2_23: 6408974001275396637
+      Burst_004.2_24: 6712116798337101935
+      Burst_004.2_25: -8869965971930819966
+      Burst_004.2_26: 9111637669065039697
+      Burst_004.2_27: -321967723470546356
+      Burst_004.2_28: -3924723858216856352
+      Burst_004.2_29: 3451823284128915098
+      Burst_004.2_3: -1359454315445438520
+      Burst_004.2_30: -1574361254343939150
+      Burst_004.2_31: 2541930933210446673
+      Burst_004.2_32: -6739678140442606533
+      Burst_004.2_33: -2990015685717840808
+      Burst_004.2_34: 1996066563317839834
+      Burst_004.2_35: 1857101068723540465
+      Burst_004.2_36: -7814781588897057459
+      Burst_004.2_37: -9043248998806031119
+      Burst_004.2_38: 8071061271613021526
+      Burst_004.2_39: -3685612375781561499
+      Burst_004.2_4: 8959483293390645881
+      Burst_004.2_40: 5890288661494450963
+      Burst_004.2_41: 2190250404409451833
+      Burst_004.2_42: 3715930408514866970
+      Burst_004.2_43: -2236954287807246209
+      Burst_004.2_44: 8492739659054892232
+      Burst_004.2_45: -2936741146298270938
+      Burst_004.2_46: 4736607494958645996
+      Burst_004.2_47: 6501620034519015197
+      Burst_004.2_48: -5305834058753347107
+      Burst_004.2_49: 662643065697285188
+      Burst_004.2_5: 4885204597479083923
+      Burst_004.2_50: 3773662077690777791
+      Burst_004.2_51: -1400867442973735750
+      Burst_004.2_52: -7453484155709843576
+      Burst_004.2_53: -3247965557740186245
+      Burst_004.2_54: 2452430961196851258
+      Burst_004.2_55: -2886471054994575852
+      Burst_004.2_56: 3138553484301142529
+      Burst_004.2_57: -4765948137574405259
+      Burst_004.2_58: 4106086609595661483
+      Burst_004.2_59: -3187150366557433416
+      Burst_004.2_6: -6537051886677694225
+      Burst_004.2_60: 5957633367653031973
+      Burst_004.2_61: -1419322198829445492
+      Burst_004.2_62: -1595234417232562677
+      Burst_004.2_63: 4567718276454220537
+      Burst_004.2_64: 4708340121094213253
+      Burst_004.2_65: -2468903574034624933
+      Burst_004.2_66: -2459710860484429957
+      Burst_004.2_67: 3248726464267177190
+      Burst_004.2_68: -4779204369854843728
+      Burst_004.2_69: 5059139589374098609
+      Burst_004.2_7: 3469441339530898529
+      Burst_004.2_70: -300857887191051258
+      Burst_004.2_71: 7410385795611838709
+      Burst_004.2_72: -5638992778045326128
+      Burst_004.2_73: 4752597400199396822
+      Burst_004.2_74: 3819904935857408757
+      Burst_004.2_75: -3022698556782195800
+      Burst_004.2_76: 6708395760645042746
+      Burst_004.2_77: 4467547644955429267
+      Burst_004.2_78: -3996018190811601538
+      Burst_004.2_79: -6993693226569395720
+      Burst_004.2_8: 9083346601885700787
+      Burst_004.2_80: 5115766075570844552
+      Burst_004.2_81: -621209183652859692
+      Burst_004.2_82: 367297030132003196
+      Burst_004.2_9: 5229844251884052985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

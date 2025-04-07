@@ -1,30 +1,23 @@
 using UnityEngine;
-using UI.Banner;
+using UI.Gameplay;
 using Utils;
 
 namespace Gameplay
 {
     public class BulletinBoard : Triggerer
     {
-        [SerializeField, TextArea] private string bannerText;
-
-        private BannerController _bannerController;
+        [SerializeField] private QuestionMenu questionMenu;
         
-        private void Awake()
-        {
-            _bannerController = FindAnyObjectByType<BannerController>(FindObjectsInactive.Include);
-        }
-
         protected override void OnTriggerEnter2D(Collider2D other)
         {
             if (other.CompareTag(TagsTypes.PlayerTag))
-                _bannerController.Show(bannerText);
+                questionMenu.Show();
         }
 
         protected override void OnTriggerExit2D(Collider2D other)
         {
-            if (other.CompareTag(TagsTypes.PlayerTag))
-                _bannerController.Hide();
+            // if (other.CompareTag(TagsTypes.PlayerTag))
+            //     questionMenu.Hide();
         }
     }
 }
