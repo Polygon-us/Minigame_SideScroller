@@ -17875,7 +17875,19 @@ MonoBehaviour:
     m_ActionId: f1352a80-a7ab-4470-9f2b-635fe482ef58
     m_ActionName: 'Player/Quit[/Keyboard/escape]'
   - m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 511822663473144758}
+        m_TargetAssemblyTypeName: Gameplay.Character.FlyMovement, Assembly-CSharp
+        m_MethodName: OnFly
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_ActionId: 20e72086-92f9-4e1f-bb08-e729ed69e758
     m_ActionName: 'Player/Fly[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d,/Keyboard/upArrow,/Keyboard/downArrow,/Keyboard/leftAlt,/Keyboard/rightArrow]'
   m_NeverAutoSwitchControlSchemes: 0
@@ -18228,6 +18240,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterMovement: {fileID: 1633679583}
   flyMovement: {fileID: 511822663473144758}
+  characterJump: {fileID: 1633679582}
 --- !u!114 &1686704148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19455,7 +19468,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7548472645395361902, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
       propertyPath: jumpHeight
-      value: 2.8
+      value: 2.25
       objectReference: {fileID: 0}
     - target: {fileID: 7548472645395361902, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
       propertyPath: canJumpAgain
@@ -19479,6 +19492,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7718117488630172909, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
       propertyPath: maxDecceleration
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7718117488630172909, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
+      propertyPath: <maxSpeed>k__BackingField
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7718117488630172909, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
+      propertyPath: <maxAcceleration>k__BackingField
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7718117488630172909, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
+      propertyPath: <maxDecceleration>k__BackingField
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8523504643948550953, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
@@ -19528,6 +19553,18 @@ PrefabInstance:
     - target: {fileID: 9009991267694067752, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9009991267694067752, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
+      propertyPath: <maxSpeed>k__BackingField
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9009991267694067752, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
+      propertyPath: <maxAcceleration>k__BackingField
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9009991267694067752, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
+      propertyPath: <maxDecceleration>k__BackingField
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
