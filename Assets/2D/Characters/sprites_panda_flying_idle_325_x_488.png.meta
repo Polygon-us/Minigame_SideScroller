@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 633e4779b63da2f47a5ee84a0c221fd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2007335377496867056
+    second: sprites_panda_flying_idle_325_x_488_0
+  - first:
+      213: -7215104881739882173
+    second: sprites_panda_flying_idle_325_x_488_1
+  - first:
+      213: 7452593184633252605
+    second: sprites_panda_flying_idle_325_x_488_2
+  - first:
+      213: -302678652974232342
+    second: sprites_panda_flying_idle_325_x_488_3
+  - first:
+      213: -7916282026585850621
+    second: sprites_panda_flying_idle_325_x_488_4
+  - first:
+      213: -1106894754414732540
+    second: sprites_panda_flying_idle_325_x_488_5
+  - first:
+      213: -7340318771483326990
+    second: sprites_panda_flying_idle_325_x_488_6
+  - first:
+      213: 8375283498814581840
+    second: sprites_panda_flying_idle_325_x_488_7
+  - first:
+      213: -7900390127447036617
+    second: sprites_panda_flying_idle_325_x_488_8
+  - first:
+      213: 4987922382169464513
+    second: sprites_panda_flying_idle_325_x_488_9
+  - first:
+      213: 4269782258696412629
+    second: sprites_panda_flying_idle_325_x_488_10
+  - first:
+      213: -3379732855598110687
+    second: sprites_panda_flying_idle_325_x_488_11
+  - first:
+      213: -663306673524522864
+    second: sprites_panda_flying_idle_325_x_488_12
+  - first:
+      213: -339778594467915311
+    second: sprites_panda_flying_idle_325_x_488_13
+  - first:
+      213: -3959518290936881557
+    second: sprites_panda_flying_idle_325_x_488_14
+  - first:
+      213: -3728210300278414936
+    second: sprites_panda_flying_idle_325_x_488_15
+  - first:
+      213: -8803551630816796976
+    second: sprites_panda_flying_idle_325_x_488_16
+  - first:
+      213: 7981721528953247976
+    second: sprites_panda_flying_idle_325_x_488_17
+  - first:
+      213: -3381879150067921806
+    second: sprites_panda_flying_idle_325_x_488_18
+  - first:
+      213: -1269584352198803938
+    second: sprites_panda_flying_idle_325_x_488_19
+  - first:
+      213: -1841283147341037763
+    second: sprites_panda_flying_idle_325_x_488_20
+  - first:
+      213: 3927076111586209337
+    second: sprites_panda_flying_idle_325_x_488_21
+  - first:
+      213: -8758864816520674998
+    second: sprites_panda_flying_idle_325_x_488_22
+  - first:
+      213: 3849949779063152449
+    second: sprites_panda_flying_idle_325_x_488_23
+  - first:
+      213: -6697184853668005165
+    second: sprites_panda_flying_idle_325_x_488_24
+  - first:
+      213: -1158858000222734148
+    second: sprites_panda_flying_idle_325_x_488_25
+  - first:
+      213: -4614467703249818568
+    second: sprites_panda_flying_idle_325_x_488_26
+  - first:
+      213: 9167585386532816674
+    second: sprites_panda_flying_idle_325_x_488_27
+  - first:
+      213: -194594465483043398
+    second: sprites_panda_flying_idle_325_x_488_28
+  - first:
+      213: -5979813664968576280
+    second: sprites_panda_flying_idle_325_x_488_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f583b4698ff94986f7b66978efc8b
+      internalID: 472754531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc5b6f7a14d57459abfbe8291026ac
+      internalID: 943626016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a660b55b0c4e4fa6e9383dd9dd950
+      internalID: 2090211914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d2939e5b9afd4191e140434150bd7
+      internalID: 623300879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_4
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6aae2d49fae24292f69cd52a80923
+      internalID: 1805450841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_5
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68de64acfb17ae4c8987d13aaaeb99f
+      internalID: 1060307766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_6
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8818424c6d35b4797252baa13b5743
+      internalID: 251617858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_7
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edda92d56da9764f91f41ddf07e3ec2
+      internalID: 619641887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_8
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5195ac1735ee4e64e86cd09ef8863e76
+      internalID: 1622569931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_9
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aeb28360617194cbde7e58a61556e1
+      internalID: 1319271561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_10
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c0356c4c24a604387fd6514830380d
+      internalID: 1456407383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_11
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43743f33fe9a6f441ad779bc0d98f56e
+      internalID: 945291718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_12
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a09620903aaa4ba213dbea2a77709
+      internalID: 899854710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_13
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf322b325a3bfb74297f151c65e7a1e7
+      internalID: -1328611562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_14
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46317b4d1eb97ce48972645ac19240bf
+      internalID: -783080247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_15
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8f33f07a5c8164abe1e5a2cddc8b5b
+      internalID: -55064667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_16
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3dce76e9649a844ae397c7f72fb565
+      internalID: 343815402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_17
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3558d2a18181b1e44b4a62632613e575
+      internalID: -37450743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_18
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca58fa1ce1192ee4691ee47dd7e9d9ef
+      internalID: -400189247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_19
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d775708dbc7674748a3f35e461bc7ed7
+      internalID: -341254068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_20
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9e8eef2c2bfe43a5e4952b119a403
+      internalID: -1483869390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_21
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e260915d230d40bb273dc8d2749a7
+      internalID: -2098990413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_22
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a530c49f682641891282a3ebe7847
+      internalID: -93521727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_23
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b678159452c554a4e9e24a0207614a62
+      internalID: -1989594532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_24
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21d30fbe967d341ad43c95cf8989ad
+      internalID: 2068675892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_25
+      rect:
+        serializedVersion: 2
+        x: 8125
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be71ff2e646cf824688d2801afbe2d38
+      internalID: 252131981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_26
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5972701b9206cc544a74ae86cd011287
+      internalID: 859708304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_27
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be1dfcb066fc4349b7ac4476c201533
+      internalID: -1240018594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_28
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0129d9e605d806f428e1fb1a7ec95ef2
+      internalID: 953037565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_panda_flying_idle_325_x_488_29
+      rect:
+        serializedVersion: 2
+        x: 9425
+        y: 2
+        width: 325
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27935fb216cb640adf0946d65ccbde
+      internalID: 1405899535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a9701dfd930e99b43b55d237f8169b60
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprites_panda_flying_idle_325_x_488_0: 472754531
+      sprites_panda_flying_idle_325_x_488_1: 943626016
+      sprites_panda_flying_idle_325_x_488_10: 1456407383
+      sprites_panda_flying_idle_325_x_488_11: 945291718
+      sprites_panda_flying_idle_325_x_488_12: 899854710
+      sprites_panda_flying_idle_325_x_488_13: -1328611562
+      sprites_panda_flying_idle_325_x_488_14: -783080247
+      sprites_panda_flying_idle_325_x_488_15: -55064667
+      sprites_panda_flying_idle_325_x_488_16: 343815402
+      sprites_panda_flying_idle_325_x_488_17: -37450743
+      sprites_panda_flying_idle_325_x_488_18: -400189247
+      sprites_panda_flying_idle_325_x_488_19: -341254068
+      sprites_panda_flying_idle_325_x_488_2: 2090211914
+      sprites_panda_flying_idle_325_x_488_20: -1483869390
+      sprites_panda_flying_idle_325_x_488_21: -2098990413
+      sprites_panda_flying_idle_325_x_488_22: -93521727
+      sprites_panda_flying_idle_325_x_488_23: -1989594532
+      sprites_panda_flying_idle_325_x_488_24: 2068675892
+      sprites_panda_flying_idle_325_x_488_25: 252131981
+      sprites_panda_flying_idle_325_x_488_26: 859708304
+      sprites_panda_flying_idle_325_x_488_27: -1240018594
+      sprites_panda_flying_idle_325_x_488_28: 953037565
+      sprites_panda_flying_idle_325_x_488_29: 1405899535
+      sprites_panda_flying_idle_325_x_488_3: 623300879
+      sprites_panda_flying_idle_325_x_488_4: 1805450841
+      sprites_panda_flying_idle_325_x_488_5: 1060307766
+      sprites_panda_flying_idle_325_x_488_6: 251617858
+      sprites_panda_flying_idle_325_x_488_7: 619641887
+      sprites_panda_flying_idle_325_x_488_8: 1622569931
+      sprites_panda_flying_idle_325_x_488_9: 1319271561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
