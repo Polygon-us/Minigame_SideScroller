@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Custom  - Character Movement Preset
   m_EditorClassIdentifier: 
   _presetName: Custom
-  _accel: 79
-  _topSpeed: 9.01
-  _decel: 76
+  _accel: 10
+  _topSpeed: 5
+  _decel: 10
   _turnSpeed: 76
   _jumpHeight: 2.25
   _timeToApex: 0.38
