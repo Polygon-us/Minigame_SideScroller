@@ -1,3 +1,4 @@
+using DG.Tweening;
 using UnityEngine.EventSystems;
 using UnityEngine;
 
@@ -14,18 +15,18 @@ namespace UI.Generic
 
         public void OnPointerEnter(PointerEventData eventData)
         {
-            LeanTween.cancel(_tweenId);
-            _tweenId = LeanTween.scale(RectTransform, Vector3.one * scale, tweenParams.duration)
-                .setEase(tweenParams.inType)
-                .uniqueId;
+            DOTween.Kill(_tweenId);
+            _tweenId = RectTransform.DOScale(Vector3.one * scale, tweenParams.duration)
+                .SetEase(tweenParams.inType)
+                .intId;
         }
 
         public void OnPointerExit(PointerEventData eventData)
         {
-            LeanTween.cancel(_tweenId);
-            _tweenId = LeanTween.scale(RectTransform, Vector3.one, tweenParams.duration)
-                .setEase(tweenParams.outType)
-                .uniqueId;
+            DOTween.Kill(_tweenId);
+            _tweenId = RectTransform.DOScale(Vector3.one, tweenParams.duration)
+                .SetEase(tweenParams.outType)
+                .intId;
         }
     }
 }
