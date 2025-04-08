@@ -222,28 +222,60 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9d677f1681015749b15c436eec6d880, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MovementRange: 100
+  m_MovementRange: 120
   m_DynamicOriginRange: 82.1
   m_ControlPath: <Gamepad>/leftStick
   m_Behaviour: 0
   m_UseIsolatedInputActions: 0
   m_PointerDownAction:
-    m_Name: 
-    m_Type: 0
-    m_ExpectedControlType: 
+    m_Name: Pointer Down
+    m_Type: 2
+    m_ExpectedControlType: Button
     m_Id: b373bd32-1ed2-4e85-917a-4c166d3e0dca
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 63b9e877-e74e-45ad-b153-354318804507
+      m_Path: <Touchscreen>/Press
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pointer Down
+      m_Flags: 0
+    - m_Name: 
+      m_Id: cc47e6b9-a538-4d96-a2ef-4fe92b6fa19a
+      m_Path: <Mouse>/press
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pointer Down
+      m_Flags: 0
     m_Flags: 0
   m_PointerMoveAction:
-    m_Name: 
+    m_Name: Pointer Move
     m_Type: 0
-    m_ExpectedControlType: 
+    m_ExpectedControlType: Vector2
     m_Id: 9500c33e-a39d-4f77-8939-599b3a77f77e
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 963e23ff-5d41-4585-96c0-17319945a1fc
+      m_Path: <Touchscreen>/position
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pointer Move
+      m_Flags: 0
+    - m_Name: 
+      m_Id: fdfe187f-cfaa-4661-bc42-d8102e65e9dc
+      m_Path: <Mouse>/position
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pointer Move
+      m_Flags: 0
     m_Flags: 0
 --- !u!1 &1921879890285408415
 GameObject:
@@ -280,8 +312,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 165, y: 135}
-  m_SizeDelta: {x: 300, y: 300}
+  m_AnchoredPosition: {x: 130, y: 110}
+  m_SizeDelta: {x: 360, y: 360}
   m_Pivot: {x: 0, y: 0}
 --- !u!222 &124616629490224074
 CanvasRenderer:
@@ -358,8 +390,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -182, y: 156}
-  m_SizeDelta: {x: 175, y: 175}
+  m_AnchoredPosition: {x: -181.14722, y: 166.31201}
+  m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 1, y: 0}
 --- !u!222 &6063913818210774738
 CanvasRenderer:
@@ -455,7 +487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d54531977ecb194c95e2d3aa7a5d72a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_ControlPath: <Keyboard>/space
+  m_ControlPath: <Gamepad>/buttonSouth
 --- !u!1 &7166037198413791487
 GameObject:
   m_ObjectHideFlags: 0
@@ -490,7 +522,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 5.328293, y: 0}
+  m_AnchoredPosition: {x: 5.328247, y: 0}
   m_SizeDelta: {x: 65.1257, y: -66.5275}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2542798910391328204

@@ -18836,8 +18836,8 @@ MonoBehaviour:
   jumpSquashValue: 0.89
   landSquashValue: 0.91
   trailValue: 4.25
-  tiltAngleValue: 7.8
-  tiltSpeedValue: 14.2
+  tiltAngleValue: 0
+  tiltSpeedValue: 0
 --- !u!1 &1381932923
 GameObject:
   m_ObjectHideFlags: 0
