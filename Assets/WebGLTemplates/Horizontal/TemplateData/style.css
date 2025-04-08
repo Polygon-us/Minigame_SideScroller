@@ -116,16 +116,18 @@ body {
     position: fixed;
     left: 0;
     right: 0;
-    top: 20%;
     bottom: 0;
     z-index: 999999;
-    display: none;
-    text-align: center;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #landscape-msg-p{
     font-family:  "Helvetica", "Arial", sans-serif !important;
     color: white;
+    margin-top: 5em;
 }
 
 #landscape-msg-img {
@@ -145,7 +147,7 @@ body {
 
 @keyframes landscape {
     0%,40% {
-      transform: rotate(-90deg);
+      transform: rotate(90deg);
     }
     60%, 100% {
       transform: rotate(0);
