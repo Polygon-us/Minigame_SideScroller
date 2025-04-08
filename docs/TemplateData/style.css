@@ -29,10 +29,9 @@ body {
 }
 
 #unity-canvas {
-    width: auto;
-    height: 100vh;
+    width: 100vw;
+    height: auto;
     aspect-ratio: 16 / 9;
-    max-width: 100vw;
 }
 
 .unity-mobile #unity-canvas {
