@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 34bc34b1b2a6aa04ea0d9da5f6765887
+guid: 200600e777d13d442ae5fc4aaaf975d5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2235222695472562481
-    second: MountainC_0
+      213: 799919690265325702
+    second: 5B_0
+  - first:
+      213: 7215426937264903193
+    second: 5B_1
+  - first:
+      213: 2986504903834915902
+    second: 5B_2
+  - first:
+      213: 29469681877830440
+    second: 5B_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -24,7 +33,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -98,7 +107,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MountainC_0
+      name: 5B_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 989
-        height: 468
+        x: 1279
+        y: 869
+        width: 425
+        height: 211
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1318885e23b150f10800000000000000
-      internalID: 2235222695472562481
+      spriteID: 680fa1b58b2e91b00800000000000000
+      internalID: 799919690265325702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5B_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 11
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914957a0298522460800000000000000
+      internalID: 7215426937264903193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5B_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 822
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34da090362327920800000000000000
+      internalID: 2986504903834915902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5B_3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 110
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bc8fff482b86000800000000000000
+      internalID: 29469681877830440
       vertices: []
       indices: 
       edges: []
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MountainC_0: 2235222695472562481
+      5B_0: 799919690265325702
+      5B_1: 7215426937264903193
+      5B_2: 2986504903834915902
+      5B_3: 29469681877830440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
