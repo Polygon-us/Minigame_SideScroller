@@ -1,5 +1,6 @@
-using GMTK.PlatformerToolkit;
+using UnityEngine.SceneManagement;
 using ScriptableObjects.Messages;
+using GMTK.PlatformerToolkit;
 using UnityEngine;
 
 namespace UI.Gameplay
@@ -9,6 +10,7 @@ namespace UI.Gameplay
         [SerializeField] private MessageMenu messageMenu;
         [SerializeField] private MobileInput.MobileInputMenu mobileInputMenuMenu;
         [SerializeField] private MessageInfoSO messageInfo;
+        [SerializeField] private MessageInfoSO endMessageInfo;
         
         private void Start()
         {
@@ -32,6 +34,12 @@ namespace UI.Gameplay
         public void ShowResult()
         {
             messageMenu.Show(messageInfo);
+        }
+
+        public void ShowEndPanel()
+        {
+            messageMenu.Show(endMessageInfo);
+            messageMenu.OnHideComplete += () => SceneManager.LoadScene(0);
         }
     }
 }

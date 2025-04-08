@@ -31,21 +31,13 @@ namespace UI.Generic
 
         public void OnPointerEnter(PointerEventData eventData)
         {
-            DOVirtual.Float(0, 1, tweenParams.duration, v =>
-                {
-                    _initialColor.a = v;
-                    _fontMaterial.SetColor(colorProperty, _initialColor);
-                })
+            _fontMaterial.DOFade(1, colorProperty, tweenParams.duration)
                 .SetEase(tweenParams.inType);
         }
 
         public void OnPointerExit(PointerEventData eventData)
         {
-            DOVirtual.Float(1, 0, tweenParams.duration, v =>
-                {
-                    _initialColor.a = v;
-                    _fontMaterial.SetColor(colorProperty, _initialColor);
-                })
+            _fontMaterial.DOFade(0, colorProperty, tweenParams.duration)
                 .SetEase(tweenParams.outType);
         }
     }

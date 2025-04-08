@@ -17,6 +17,15 @@ namespace UI.MainMenu
             startButton.onClick.AddListener(Hide);
         }
 
+        protected override void Start()
+        {
+            base.Start();
+            
+#if !UNITY_EDITOR && UNITY_WEBGL
+        WebGLInput.mobileKeyboardSupport = false;
+#endif
+        }
+
         public override void Hide()
         {
             SetInteractable(false);
