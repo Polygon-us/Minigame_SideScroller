@@ -2,6 +2,7 @@ using UnityEngine.SceneManagement;
 using ScriptableObjects.Messages;
 using GMTK.PlatformerToolkit;
 using UnityEngine;
+using UnityEngine.Playables;
 
 namespace UI.Gameplay
 {
@@ -11,6 +12,8 @@ namespace UI.Gameplay
         [SerializeField] private MobileInput.MobileInputMenu mobileInputMenuMenu;
         [SerializeField] private MessageInfoSO messageInfo;
         [SerializeField] private MessageInfoSO endMessageInfo;
+        [SerializeField] private PlayableDirector playableDirector;
+        [SerializeField] private MessageInfoSO rhythmInfo;
         
         private void Start()
         {
@@ -29,6 +32,18 @@ namespace UI.Gameplay
                 movementLimiter.instance.CharacterCanMove = false;
                 mobileInputMenuMenu.Hide();
             }
+        }
+
+        public void ShowDirector()
+        {
+            messageMenu.Show(rhythmInfo);
+            messageMenu.OnHideComplete += StartTimeline;
+        }
+
+        private void StartTimeline()
+        {
+            messageMenu.OnHideComplete -= StartTimeline;
+            playableDirector.Play();
         }
 
         public void ShowResult()
