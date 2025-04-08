@@ -1,5 +1,5 @@
+using ScriptableObjects.Questions;
 using GMTK.PlatformerToolkit;
-using UI.Gameplay.Question;
 using UnityEngine.UI;
 using UnityEngine;
 using TMPro;
@@ -10,13 +10,14 @@ namespace UI.Gameplay
     {
         [SerializeField] private TMP_Text messageTxt;
         [SerializeField] private TMP_Text impressionTxt;
+        [SerializeField] private Image characterImage;
         [SerializeField] private Button sendBtn;
         [SerializeField] private movementLimiter movementLimiter;
         [SerializeField] private UIManager uiManager;
         [SerializeField] private GameObject questionPrefab;
         [SerializeField] private ToggleGroup toggleGroup;
         [SerializeField] private RectTransform questionContainer;
-        [SerializeField] private QuestionInfo questionInfo;
+        [SerializeField] private QuestionInfoSO questionInfo;
 
         private Answer _selectedAnswer;
 
@@ -34,6 +35,7 @@ namespace UI.Gameplay
 
             messageTxt.text = questionInfo.questionMessage;
             impressionTxt.text = questionInfo.impression;
+            characterImage.sprite = questionInfo.thinkingPoses.GetRandom();
 
             foreach (var answer in questionInfo.answers)
             {
