@@ -34,12 +34,12 @@
                 },
                 {
                     "name": "Jump",
-                    "type": "Value",
+                    "type": "Button",
                     "id": "6e703ba4-d99d-4c70-86ed-e32c8a1a8c5b",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": true
+                    "initialStateCheck": false
                 },
                 {
                     "name": "Skip",
@@ -302,9 +302,9 @@
                 {
                     "name": "",
                     "id": "858370b2-231a-4bb7-95ae-c40ff7678f04",
-                    "path": "<Gamepad>/leftStick/x",
+                    "path": "<Gamepad>/leftStick",
                     "interactions": "",
-                    "processors": "Scale(factor=1000),Clamp(min=-1,max=1)",
+                    "processors": "",
                     "groups": "Gamepad",
                     "action": "Fly",
                     "isComposite": false,

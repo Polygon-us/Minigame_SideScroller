@@ -36,9 +36,7 @@ namespace GMTK.PlatformerToolkit {
         public float tiltAngleValue = 0;
         [Range(0, 60)]
         public float tiltSpeedValue = 0;
-        public bool jumpSFXToggleValue = false;
-        public bool landSFXToggleValue = false;
-
+        
         void Update() {
             if (juiceSettingsReferences) {
                 juiceSettingsReferences.runParticleText.text = Mathf.Round(settingsHome.runParticles).ToString();
@@ -91,8 +89,6 @@ namespace GMTK.PlatformerToolkit {
                 changeTrail(trailValue);
                 changeTiltAmount(tiltAngleValue);
                 changeTiltSpeed(tiltSpeedValue);
-                settingsHome.jumpSFX.enabled = jumpSFXToggleValue;
-                settingsHome.landSFX.enabled = landSFXToggleValue;
             }
         }
 
@@ -103,8 +99,6 @@ namespace GMTK.PlatformerToolkit {
             var em = runParticles.emission;
             em.rateOverDistance = settingsHome.runParticles;
         }
-
-
 
         public void changeJumpParticles(float amount) {
             settingsHome.jumpParticles = amount;
@@ -131,7 +125,8 @@ namespace GMTK.PlatformerToolkit {
         }
 
         public void changeTrail(float amount) {
-            characterTrail.time = amount;
+            if (characterTrail)
+                characterTrail.time = amount;
         }
 
         public void changeTiltAmount(float amount) {

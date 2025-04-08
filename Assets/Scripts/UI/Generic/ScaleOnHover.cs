@@ -1,3 +1,4 @@
+using DG.Tweening;
 using UnityEngine.EventSystems;
 using UnityEngine;
 
@@ -7,25 +8,19 @@ namespace UI.Generic
     {
         [SerializeField] private float scale = 1.2f;
         [SerializeField] private TweenParams tweenParams;
-
-        private int _tweenId;
         
         private RectTransform RectTransform => (RectTransform)transform;
 
         public void OnPointerEnter(PointerEventData eventData)
         {
-            LeanTween.cancel(_tweenId);
-            _tweenId = LeanTween.scale(RectTransform, Vector3.one * scale, tweenParams.duration)
-                .setEase(tweenParams.inType)
-                .uniqueId;
+            RectTransform.DOScale(Vector3.one * scale, tweenParams.duration)
+                .SetEase(tweenParams.inType);
         }
 
         public void OnPointerExit(PointerEventData eventData)
         {
-            LeanTween.cancel(_tweenId);
-            _tweenId = LeanTween.scale(RectTransform, Vector3.one, tweenParams.duration)
-                .setEase(tweenParams.outType)
-                .uniqueId;
+            RectTransform.DOScale(Vector3.one, tweenParams.duration)
+                .SetEase(tweenParams.outType);
         }
     }
 }

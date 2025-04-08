@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff023c4e5ef06de46835a7f762725f96, type: 3}
+  m_Name: ThinkingPosesSO
+  m_EditorClassIdentifier: 
+  poses:
+  - {fileID: 21300000, guid: 10be586a6a0072246b6f598af8d711f9, type: 3}
+  - {fileID: 21300000, guid: d4782c35e46579f4e891d32bcf70e7f1, type: 3}
+  - {fileID: 21300000, guid: 3b56bb074b2ca064d8e4b65f698c162c, type: 3}
+  - {fileID: 21300000, guid: 953667de2d17c5e45a09bcc806e7727f, type: 3}
+  - {fileID: 21300000, guid: 37ffb9b0e74556e4aafcd2726d8da05f, type: 3}
+  - {fileID: 21300000, guid: 3a5a0c4b75a136847a34e2cbe3cc33f4, type: 3}
+  - {fileID: 21300000, guid: 0b43a504fac133c4587fd9140a0fa8c7, type: 3}
+  - {fileID: 21300000, guid: 7c17cdd009bd9044f980fdfc0a1f9109, type: 3}

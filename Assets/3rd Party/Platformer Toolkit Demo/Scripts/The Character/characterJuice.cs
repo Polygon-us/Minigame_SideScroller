@@ -21,7 +21,8 @@ namespace GMTK.PlatformerToolkit {
         [Header("Components - Audio")]
         [SerializeField] AudioSource jumpSFX;
         [SerializeField] AudioSource landSFX;
-
+        [SerializeField] AudioSource stepsSFX;
+        
         [Header("Settings - Squash and Stretch")]
         [SerializeField, Tooltip("Width Squeeze, Height Squeeze, Duration")] Vector3 jumpSquashSettings;
         [SerializeField, Tooltip("Width Squeeze, Height Squeeze, Duration")] Vector3 landSquashSettings;
@@ -174,6 +175,12 @@ namespace GMTK.PlatformerToolkit {
             else { landSqueezing = false; }
 
             squeezing = false;
+        }
+
+        public void PlaySteps()
+        {
+            stepsSFX.pitch = Random.Range(0.8f, 1.2f);
+            stepsSFX.Play();
         }
     }
 }

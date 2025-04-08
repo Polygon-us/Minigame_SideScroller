@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9212651737794072393}
   - component: {fileID: 6081032527583374040}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MetalFence
   m_TagString: Untagged
   m_Icon: {fileID: 0}

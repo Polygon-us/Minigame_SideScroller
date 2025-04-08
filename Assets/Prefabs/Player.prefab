@@ -101,6 +101,7 @@ GameObject:
   - component: {fileID: 5589287678388341159}
   - component: {fileID: 7718117488630172909}
   - component: {fileID: 7548472645395361902}
+  - component: {fileID: 1342319822596160199}
   - component: {fileID: 2921109217388151747}
   - component: {fileID: 9009991267694067752}
   m_Layer: 0
@@ -224,13 +225,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d9fcc1289b79458d9a4ac5c7cbbb62d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 9.01
-  maxAcceleration: 79
-  maxDecceleration: 76
-  maxTurnSpeed: 76
-  maxAirAcceleration: 80
-  maxAirDeceleration: 80
-  maxAirTurnSpeed: 80
+  <maxSpeed>k__BackingField: 9.01
+  <maxAcceleration>k__BackingField: 79
+  <maxDecceleration>k__BackingField: 76
+  <maxTurnSpeed>k__BackingField: 76
+  <maxAirAcceleration>k__BackingField: 80
+  <maxAirDeceleration>k__BackingField: 80
+  <maxAirTurnSpeed>k__BackingField: 80
   friction: 0
   useAcceleration: 1
   directionX: 0
@@ -251,13 +252,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   body: {fileID: 0}
   velocity: {x: 0, y: 0}
-  jumpHeight: 2.25
-  timeToJumpApex: 0.38
-  upwardMovementMultiplier: 1
-  downwardMovementMultiplier: 5.23
-  maxAirJumps: 0
-  variablejumpHeight: 1
-  jumpCutOff: 5.23
   speedLimit: 20
   coyoteTime: 0
   jumpBuffer: 0
@@ -265,6 +259,41 @@ MonoBehaviour:
   gravMultiplier: 0
   canJumpAgain: 0
   onGround: 1
+--- !u!114 &1342319822596160199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8523504643948550953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e190085b8e2e45129a2054dd1e70e93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myAnimator: {fileID: 0}
+  characterSprite: {fileID: 2328495413396518425}
+  moveParticles: {fileID: 0}
+  jumpParticles: {fileID: 0}
+  landParticles: {fileID: 0}
+  jumpSFX: {fileID: 0}
+  landSFX: {fileID: 0}
+  stepSFX: {fileID: 0}
+  jumpSquashSettings: {x: 0, y: 0, z: 0}
+  landSquashSettings: {x: 0, y: 0, z: 0}
+  landSqueezeMultiplier: 0.9
+  jumpSqueezeMultiplier: 0.9
+  landDrop: 0.2
+  maxTilt: 0
+  tiltSpeed: 0
+  runningSpeed: 0
+  maxSpeed: 6
+  squeezing: 0
+  jumpSqueezing: 0
+  landSqueezing: 0
+  playerGrounded: 0
+  jumpLine: {fileID: 0}
+  cameraFalling: 0
 --- !u!114 &2921109217388151747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -294,3 +323,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1895a0ffbb78314dae375d70ed63beb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  <maxSpeed>k__BackingField: 9.01
+  <maxAcceleration>k__BackingField: 79
+  <maxDecceleration>k__BackingField: 76
+  <maxTurnSpeed>k__BackingField: 76
+  <maxAirAcceleration>k__BackingField: 80
+  <maxAirDeceleration>k__BackingField: 80
+  <maxAirTurnSpeed>k__BackingField: 80
+  friction: 0
+  direction: {x: 0, y: 0}
+  velocity: {x: 0, y: 0}
+  pressingKey: 0

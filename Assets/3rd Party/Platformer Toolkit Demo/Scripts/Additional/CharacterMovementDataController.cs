@@ -1,24 +1,21 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+using Gameplay.Character;
 using UnityEngine;
 
 namespace GMTK.PlatformerToolkit
 {
-    [RequireComponent(typeof(characterMovement), typeof(characterJump))]
     public class CharacterMovementDataController : MonoBehaviour
     {
         [SerializeField] PresetObject _preset;
 
-        characterMovement _moveScript;
-        characterJump _jumpScript;
+        IMovementDataReceiver[] _moveReceivers;
+        IJumpDataReceiver[] _jumpReceivers;
 
         PresetObject _installedPreset;
 
         void Awake()
         {
-            _moveScript = GetComponent<characterMovement>();
-            _jumpScript = GetComponent<characterJump>();
+            _moveReceivers = GetComponents<IMovementDataReceiver>();
+            _jumpReceivers = GetComponents<IJumpDataReceiver>();
 
             InstallPresetData();
         }
@@ -39,22 +36,27 @@ namespace GMTK.PlatformerToolkit
         private void InstallPresetData()
         {
             //MOVE
-            _moveScript.maxAcceleration = _preset.Acceleration;
-            _moveScript.maxSpeed = _preset.TopSpeed;
-            _moveScript.maxDecceleration = _preset.Deceleration;
-            _moveScript.maxTurnSpeed = _preset.TurnSpeed;
-
+            foreach (var receiver in _moveReceivers)
+            {
+                receiver.maxAcceleration = _preset.Acceleration;
+                receiver.maxSpeed = _preset.TopSpeed;
+                receiver.maxDecceleration = _preset.Deceleration;
+                receiver.maxTurnSpeed = _preset.TurnSpeed;
+                receiver.maxAirDeceleration = _preset.AirBrake;
+                receiver.maxAirAcceleration = _preset.AirControl;
+                receiver.maxAirTurnSpeed = _preset.AirControlActual;
+            }
 
             //JUMP
-            _moveScript.maxAirAcceleration = _preset.AirControl;
-            _moveScript.maxAirDeceleration = _preset.AirBrake;
-            _jumpScript.jumpHeight = _preset.JumpHeight;
-            _jumpScript.timeToJumpApex = _preset.TimeToApex;
-            _jumpScript.downwardMovementMultiplier = _preset.DownwardMovementMultiplier;
-            _jumpScript.jumpCutOff = _preset.JumpCutoff;
-            _jumpScript.maxAirJumps = _preset.DoubleJump;
-            _jumpScript.variablejumpHeight = _preset.VariableJumpHeight;
-            _moveScript.maxAirTurnSpeed = _preset.AirControlActual;
+            foreach (var receiver in _jumpReceivers)
+            {
+                receiver.jumpHeight = _preset.JumpHeight;
+                receiver.timeToJumpApex = _preset.TimeToApex;
+                receiver.downwardMovementMultiplier = _preset.DownwardMovementMultiplier;
+                receiver.jumpCutOff = _preset.JumpCutoff;
+                receiver.maxAirJumps = _preset.DoubleJump;
+                receiver.variablejumpHeight = _preset.VariableJumpHeight;
+            }
 
             _installedPreset = _preset;
         }
