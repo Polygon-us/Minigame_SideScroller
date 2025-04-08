@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 34bc34b1b2a6aa04ea0d9da5f6765887
+guid: cd8192c2ae6603c48a4e3c1838fed4ea
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2235222695472562481
-    second: MountainC_0
+      213: 1708745267818088716
+    second: 3B_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -24,7 +24,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -98,7 +98,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MountainC_0
+      name: 3B_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 1810
         y: 0
-        width: 989
-        height: 468
+        width: 110
+        height: 157
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1318885e23b150f10800000000000000
-      internalID: 2235222695472562481
+      spriteID: c094deb84cea6b710800000000000000
+      internalID: 1708745267818088716
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MountainC_0: 2235222695472562481
+      3B_0: 1708745267818088716
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

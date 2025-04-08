@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 34bc34b1b2a6aa04ea0d9da5f6765887
+guid: abc93b918d67c0b42937e4e9ea81283d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2235222695472562481
-    second: MountainC_0
+      213: 7236069225472774302
+    second: 2B_0
+  - first:
+      213: 1114388406833639145
+    second: 2B_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -24,7 +27,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -98,7 +101,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MountainC_0
+      name: 2B_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 989
-        height: 468
+        x: 1743
+        y: 1068
+        width: 15
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1318885e23b150f10800000000000000
-      internalID: 2235222695472562481
+      spriteID: e90d07a4f9eab6460800000000000000
+      internalID: 7236069225472774302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2B_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 711
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eee12b0a5a177f00800000000000000
+      internalID: 1114388406833639145
       vertices: []
       indices: 
       edges: []
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MountainC_0: 2235222695472562481
+      2B_0: 7236069225472774302
+      2B_1: 1114388406833639145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
