@@ -9,7 +9,7 @@
   </head>
   <body class="dark">
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=1080 height=1920 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=1920 height=1080 tabindex="-1"></canvas>
     </div>
     <div id="loading-cover" style="display: flex;">
       <div id="unity-loading-bar">
@@ -70,15 +70,18 @@
       }
       
 
-      function getDimensions(vpheight, vpwidth){
-
-        if(vpwidth > vpheight){
+      function getDimensions(vpheight, vpwidth)
+      {
+        if (vpheight > vpwidth)
+        {
           container.style.display = "none";
           container.style.visibility = "hidden";
           loadingCover.style.display = "none";
           loadingCover.style.visibility = "hidden";
           landscapeMsg.style.display = "block";
-        } else{
+        } 
+        else
+        {
           container.style.display = "flex";
           container.style.visibility = "visible";
           landscapeMsg.style.display = "none";
