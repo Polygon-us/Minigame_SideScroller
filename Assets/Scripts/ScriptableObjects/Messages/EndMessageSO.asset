@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messages:
   - impression: '!'
-    poses: {fileID: 11400000, guid: 9ab35ffb0a7913e438cc1d79c5f801b1, type: 2}
+    poses: {fileID: 11400000, guid: 0606153ca8ceb99438532d5f64aa3368, type: 2}
     message: "Gracias por jugar\nM4T1-As el As de las matem\xE1ticas"
