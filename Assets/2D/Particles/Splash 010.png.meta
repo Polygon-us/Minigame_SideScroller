@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: ff436e398551d2f4d823231e824593c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2143618415374740971
+    second: Splash 010_0
+  - first:
+      213: 7173945824247921173
+    second: Splash 010_1
+  - first:
+      213: 9065003876929600262
+    second: Splash 010_2
+  - first:
+      213: 8215797408734774231
+    second: Splash 010_3
+  - first:
+      213: 2717236659820044677
+    second: Splash 010_4
+  - first:
+      213: 62419961347643212
+    second: Splash 010_5
+  - first:
+      213: -7435358184537800673
+    second: Splash 010_6
+  - first:
+      213: -2496435384875598544
+    second: Splash 010_7
+  - first:
+      213: 6296704186796028490
+    second: Splash 010_8
+  - first:
+      213: -703496396412247993
+    second: Splash 010_9
+  - first:
+      213: -1490356987438454582
+    second: Splash 010_10
+  - first:
+      213: 7109989590787335848
+    second: Splash 010_11
+  - first:
+      213: 674047763689564338
+    second: Splash 010_12
+  - first:
+      213: -4263560436486719370
+    second: Splash 010_13
+  - first:
+      213: 5661675113540879004
+    second: Splash 010_14
+  - first:
+      213: -7311859323153512094
+    second: Splash 010_15
+  - first:
+      213: -8483028740670932236
+    second: Splash 010_16
+  - first:
+      213: 5952595789811737447
+    second: Splash 010_17
+  - first:
+      213: 7653098307844505788
+    second: Splash 010_18
+  - first:
+      213: 2272640166914579915
+    second: Splash 010_19
+  - first:
+      213: -2558281521895529524
+    second: Splash 010_20
+  - first:
+      213: 1201982377988920594
+    second: Splash 010_21
+  - first:
+      213: -5163319589450341154
+    second: Splash 010_22
+  - first:
+      213: -2934741939871986697
+    second: Splash 010_23
+  - first:
+      213: 5816192843906973485
+    second: Splash 010_24
+  - first:
+      213: 2095507382869465907
+    second: Splash 010_25
+  - first:
+      213: -945290949822890302
+    second: Splash 010_26
+  - first:
+      213: 8495105640914346594
+    second: Splash 010_27
+  - first:
+      213: -6676269327809382776
+    second: Splash 010_28
+  - first:
+      213: 1589813264829128774
+    second: Splash 010_29
+  - first:
+      213: 662523938516152460
+    second: Splash 010_30
+  - first:
+      213: -1884440386242632072
+    second: Splash 010_31
+  - first:
+      213: 7751550034171687558
+    second: Splash 010_32
+  - first:
+      213: 591431174342178298
+    second: Splash 010_33
+  - first:
+      213: 588938081642963198
+    second: Splash 010_34
+  - first:
+      213: -3158078171176699495
+    second: Splash 010_35
+  - first:
+      213: -2320193545245087574
+    second: Splash 010_36
+  - first:
+      213: -7689718283955867632
+    second: Splash 010_37
+  - first:
+      213: 4457709517645525264
+    second: Splash 010_38
+  - first:
+      213: -8518650455538078740
+    second: Splash 010_39
+  - first:
+      213: 4710900242283181646
+    second: Splash 010_40
+  - first:
+      213: 8357596338087599120
+    second: Splash 010_41
+  - first:
+      213: 6232419014086395293
+    second: Splash 010_42
+  - first:
+      213: -3148975731451140111
+    second: Splash 010_43
+  - first:
+      213: -2978228363809596308
+    second: Splash 010_44
+  - first:
+      213: 5796014983161507224
+    second: Splash 010_45
+  - first:
+      213: -7902940643417269521
+    second: Splash 010_46
+  - first:
+      213: 9210117471575188872
+    second: Splash 010_47
+  - first:
+      213: 4453184502073971411
+    second: Splash 010_48
+  - first:
+      213: -6498684210028883582
+    second: Splash 010_49
+  - first:
+      213: -3330917736602521616
+    second: Splash 010_50
+  - first:
+      213: -6202359513858648989
+    second: Splash 010_51
+  - first:
+      213: 5354935419955652625
+    second: Splash 010_52
+  - first:
+      213: -2698667729487091576
+    second: Splash 010_53
+  - first:
+      213: 223722169872832610
+    second: Splash 010_54
+  - first:
+      213: 7284637671350885542
+    second: Splash 010_55
+  - first:
+      213: 3573036010240228839
+    second: Splash 010_56
+  - first:
+      213: -1187863961151170062
+    second: Splash 010_57
+  - first:
+      213: -8697178674798337139
+    second: Splash 010_58
+  - first:
+      213: 247791454655618548
+    second: Splash 010_59
+  - first:
+      213: -6851558865250753168
+    second: Splash 010_60
+  - first:
+      213: -788890755907021557
+    second: Splash 010_61
+  - first:
+      213: -995796444645052928
+    second: Splash 010_62
+  - first:
+      213: -8787691568785499869
+    second: Splash 010_63
+  - first:
+      213: 7002121851444880798
+    second: Splash 010_64
+  - first:
+      213: 4567530291862498205
+    second: Splash 010_65
+  - first:
+      213: 7313052744485897578
+    second: Splash 010_66
+  - first:
+      213: -7208077468415321904
+    second: Splash 010_67
+  - first:
+      213: -7934599841951700715
+    second: Splash 010_68
+  - first:
+      213: -7260470313457561831
+    second: Splash 010_69
+  - first:
+      213: 1188437834597033478
+    second: Splash 010_70
+  - first:
+      213: -3809997841296242270
+    second: Splash 010_71
+  - first:
+      213: -1830007347895360876
+    second: Splash 010_72
+  - first:
+      213: 8296526242890214166
+    second: Splash 010_73
+  - first:
+      213: 6956026974348035998
+    second: Splash 010_74
+  - first:
+      213: 1904091211979914957
+    second: Splash 010_75
+  - first:
+      213: -2628774783297309640
+    second: Splash 010_76
+  - first:
+      213: -6699886379416035387
+    second: Splash 010_77
+  - first:
+      213: 6780162706594851885
+    second: Splash 010_78
+  - first:
+      213: -8789054679808072031
+    second: Splash 010_79
+  - first:
+      213: 2745198754114430967
+    second: Splash 010_80
+  - first:
+      213: 7396111995817992102
+    second: Splash 010_81
+  - first:
+      213: -8308133474817290117
+    second: Splash 010_82
+  - first:
+      213: -4231802239696297259
+    second: Splash 010_83
+  - first:
+      213: -7811092323209435271
+    second: Splash 010_84
+  - first:
+      213: 6844765481804422490
+    second: Splash 010_85
+  - first:
+      213: -7443855596086631270
+    second: Splash 010_86
+  - first:
+      213: 2895533384750485724
+    second: Splash 010_87
+  - first:
+      213: 362204036216069707
+    second: Splash 010_88
+  - first:
+      213: -8383893816070906829
+    second: Splash 010_89
+  - first:
+      213: -2022317450189281255
+    second: Splash 010_90
+  - first:
+      213: 7845954904773333689
+    second: Splash 010_91
+  - first:
+      213: 3980623666505618835
+    second: Splash 010_92
+  - first:
+      213: 5583645775070085069
+    second: Splash 010_93
+  - first:
+      213: 4955855078560110491
+    second: Splash 010_94
+  - first:
+      213: 4715048554225834885
+    second: Splash 010_95
+  - first:
+      213: 8758459134595545006
+    second: Splash 010_96
+  - first:
+      213: -1192005540342983331
+    second: Splash 010_97
+  - first:
+      213: -5046675330860064322
+    second: Splash 010_98
+  - first:
+      213: 655640998045095578
+    second: Splash 010_99
+  - first:
+      213: 8223039605811842387
+    second: Splash 010_100
+  - first:
+      213: 6468782884669454017
+    second: Splash 010_101
+  - first:
+      213: 6977685777462891298
+    second: Splash 010_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Splash 010_0
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 329
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda5666799afbd10800000000000000
+      internalID: 2143618415374740971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_1
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 400
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ab13cc7b9fe8360800000000000000
+      internalID: 7173945824247921173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_2
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 435
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b7de36ffc5dcd70800000000000000
+      internalID: 9065003876929600262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_3
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 433
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3063ec630640270800000000000000
+      internalID: 8215797408734774231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 347
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812e37785095b520800000000000000
+      internalID: 2717236659820044677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 358
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c471507cf92cdd000800000000000000
+      internalID: 62419961347643212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_6
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 399
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c4d8102d40d890800000000000000
+      internalID: -7435358184537800673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_7
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 362
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d36cf7e31ea5dd0800000000000000
+      internalID: -2496435384875598544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_8
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 413
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4231b5b813626750800000000000000
+      internalID: 6296704186796028490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_9
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 423
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740a41731cdac36f0800000000000000
+      internalID: -703496396412247993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 271
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8a5375730315be0800000000000000
+      internalID: -1490356987438454582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_11
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 275
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6aa9bccd1cba260800000000000000
+      internalID: 7109989590787335848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_12
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 387
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ec5caed2ba5900800000000000000
+      internalID: 674047763689564338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_13
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 396
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678bcc05f5ac4d4c0800000000000000
+      internalID: -4263560436486719370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_14
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 364
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c920648d48f429e40800000000000000
+      internalID: 5661675113540879004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_15
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 344
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2698ecb7fae078a90800000000000000
+      internalID: -7311859323153512094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_16
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 391
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa31ec2e4a364a80800000000000000
+      internalID: -8483028740670932236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_17
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 397
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e637255edb9250800000000000000
+      internalID: 5952595789811737447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_18
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00736fc54453a60800000000000000
+      internalID: 7653098307844505788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_19
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 401
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd5a3bd03a0a8f10800000000000000
+      internalID: 2272640166914579915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_20
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 390
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a8fb92882f7cd0800000000000000
+      internalID: -2558281521895529524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_21
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 320
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151f4aba9c4ea010800000000000000
+      internalID: 1201982377988920594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_22
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 315
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed42ff890343858b0800000000000000
+      internalID: -5163319589450341154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_23
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 320
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb4d7e21c3b547d0800000000000000
+      internalID: -2934741939871986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_24
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 380
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f7e36739447b050800000000000000
+      internalID: 5816192843906973485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_25
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 382
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b942cbcdcb41d10800000000000000
+      internalID: 2095507382869465907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_26
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 342
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3a66b3e6a1e2f0800000000000000
+      internalID: -945290949822890302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 133
+        width: 202
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262ed18429da4e570800000000000000
+      internalID: 8495105640914346594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_28
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 369
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f5133b602953a0800000000000000
+      internalID: -6676269327809382776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_29
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 343
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640285dbdb6201610800000000000000
+      internalID: 1589813264829128774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_30
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 358
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b27a0302c13900800000000000000
+      internalID: 662523938516152460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_31
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 349
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ab91f37f19d5e0800000000000000
+      internalID: -1884440386242632072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_32
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 305
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6827875cfa9039b60800000000000000
+      internalID: 7751550034171687558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_33
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 337
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5f1cff48f253800800000000000000
+      internalID: 591431174342178298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_34
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 310
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0670f90145c2800800000000000000
+      internalID: 588938081642963198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_35
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 341
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f812b2a04c24d0800000000000000
+      internalID: -3158078171176699495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_36
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 340
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8238573440dcfd0800000000000000
+      internalID: -2320193545245087574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_37
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 330
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010fbfd66f1a84590800000000000000
+      internalID: -7689718283955867632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_38
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 340
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b3273037fcdd30800000000000000
+      internalID: 4457709517645525264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_39
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 308
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebeeef5b8ca7c980800000000000000
+      internalID: -8518650455538078740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_40
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 283
+        width: 104
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4637999fca706140800000000000000
+      internalID: 4710900242283181646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_41
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 292
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c11dbc6952cf370800000000000000
+      internalID: 8357596338087599120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_42
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 305
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95820292100e7650800000000000000
+      internalID: 6232419014086395293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_43
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 292
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7678891479c44d0800000000000000
+      internalID: -3148975731451140111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_44
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 306
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cd22b15153ba6d0800000000000000
+      internalID: -2978228363809596308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_45
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 297
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dee282be49f6050800000000000000
+      internalID: 5796014983161507224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_46
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 276
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feadd1c3b5d135290800000000000000
+      internalID: -7902940643417269521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 276
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885abd80b09e0df70800000000000000
+      internalID: 9210117471575188872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_48
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 284
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d46de5b3eccd30800000000000000
+      internalID: 4453184502073971411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_49
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 286
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281d9c9742900d5a0800000000000000
+      internalID: -6498684210028883582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_50
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 283
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff22cd67f336c1d0800000000000000
+      internalID: -3330917736602521616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_51
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 287
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364d03732eacce9a0800000000000000
+      internalID: -6202359513858648989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_52
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 237
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1182d9d846d805a40800000000000000
+      internalID: 5354935419955652625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_53
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 240
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888ac198ff76c8ad0800000000000000
+      internalID: -2698667729487091576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_54
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 251
+        width: 59
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26856afc022da1300800000000000000
+      internalID: 223722169872832610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_55
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 266
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac5c4ecd5b381560800000000000000
+      internalID: 7284637671350885542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_56
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 249
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed3c001259f59130800000000000000
+      internalID: 3573036010240228839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_57
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 248
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9981a550cd38fe0800000000000000
+      internalID: -1187863961151170062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_58
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 254
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83ea8c231a6d4780800000000000000
+      internalID: -8697178674798337139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_59
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 254
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd1021e305507300800000000000000
+      internalID: 247791454655618548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 201
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ec0f538f5ae0a0800000000000000
+      internalID: -6851558865250753168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_61
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 37
+        width: 117
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059297890c4d05f0800000000000000
+      internalID: -788890755907021557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 205
+        width: 84
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea558d8683e22f0800000000000000
+      internalID: -995796444645052928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_63
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 214
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32958dec319db0680800000000000000
+      internalID: -8787691568785499869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_64
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 242
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e956f5d99b88c2160800000000000000
+      internalID: 7002121851444880798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_65
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 240
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bec43c990236f30800000000000000
+      internalID: 4567530291862498205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_66
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 234
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6507c299be2d7560800000000000000
+      internalID: 7313052744485897578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_67
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 178
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89b958bb3c7fb90800000000000000
+      internalID: -7208077468415321904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_68
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 32
+        width: 56
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5192999ab73a2e190800000000000000
+      internalID: -7934599841951700715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_69
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 174
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fc710b7b0ad3b90800000000000000
+      internalID: -7260470313457561831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_70
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 216
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6066ac8f9ed2e7010800000000000000
+      internalID: 1188437834597033478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_71
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 211
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9488a462b202bc0800000000000000
+      internalID: -3809997841296242270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_72
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 202
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492a75c43028a96e0800000000000000
+      internalID: -1830007347895360876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_73
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 205
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b6d2939ae232370800000000000000
+      internalID: 8296526242890214166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_74
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 213
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97cc06bda5c88060800000000000000
+      internalID: 6956026974348035998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 58
+        width: 154
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce71067ed0bc6a10800000000000000
+      internalID: 1904091211979914957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_76
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 57
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8343f0f2347b48bd0800000000000000
+      internalID: -2628774783297309640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_77
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 196
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfdd6fd5d83503a0800000000000000
+      internalID: -6699886379416035387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_78
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 55
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cefed0f0af71e50800000000000000
+      internalID: 6780162706594851885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_79
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 200
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62e8ac551070680800000000000000
+      internalID: -8789054679808072031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_80
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 205
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7e5d0e8b7e81620800000000000000
+      internalID: 2745198754114430967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_81
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 190
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af9cb58ca444a660800000000000000
+      internalID: 7396111995817992102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_82
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 176
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70dbfe7f9493bc80800000000000000
+      internalID: -8308133474817290117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_83
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 62
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22337b84e9545c0800000000000000
+      internalID: -4231802239696297259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_84
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 59
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977225fbaec699390800000000000000
+      internalID: -7811092323209435271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_85
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 64
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ddec9c0fd7dfe50800000000000000
+      internalID: 6844765481804422490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_86
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 145
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e3fb46cc12b890800000000000000
+      internalID: -7443855596086631270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_87
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 48
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd05651b5400f2820800000000000000
+      internalID: 2895533384750485724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_88
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 54
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1fd2e6aec60500800000000000000
+      internalID: 362204036216069707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_89
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 35
+        width: 49
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cdf7a7efc66ab80800000000000000
+      internalID: -8383893816070906829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_90
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918e4666ef84fe3e0800000000000000
+      internalID: -2022317450189281255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_91
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 144
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b29fbe8a6e62ec60800000000000000
+      internalID: 7845954904773333689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_92
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 143
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395949a62240e3730800000000000000
+      internalID: 3980623666505618835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_93
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 105
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfb9aebf381d7d40800000000000000
+      internalID: 5583645775070085069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_94
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 75
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9714ebcfebb6c440800000000000000
+      internalID: 4955855078560110491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_95
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 107
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b995dbda73f6140800000000000000
+      internalID: 4715048554225834885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_96
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 53
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7b759bd2c4c8970800000000000000
+      internalID: 8758459134595545006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_97
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 127
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d551f8dc645257fe0800000000000000
+      internalID: -1192005540342983331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_98
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 55
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1eb57668b96f9b0800000000000000
+      internalID: -5046675330860064322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_99
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9619a4930e491900800000000000000
+      internalID: 655640998045095578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_100
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 61
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d026634fa1e1270800000000000000
+      internalID: 8223039605811842387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_101
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 56
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c679d1b2cbb5c950800000000000000
+      internalID: 6468782884669454017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splash 010_102
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 64
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22398f7ce38b5d060800000000000000
+      internalID: 6977685777462891298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Splash 010_0: 2143618415374740971
+      Splash 010_1: 7173945824247921173
+      Splash 010_10: -1490356987438454582
+      Splash 010_100: 8223039605811842387
+      Splash 010_101: 6468782884669454017
+      Splash 010_102: 6977685777462891298
+      Splash 010_11: 7109989590787335848
+      Splash 010_12: 674047763689564338
+      Splash 010_13: -4263560436486719370
+      Splash 010_14: 5661675113540879004
+      Splash 010_15: -7311859323153512094
+      Splash 010_16: -8483028740670932236
+      Splash 010_17: 5952595789811737447
+      Splash 010_18: 7653098307844505788
+      Splash 010_19: 2272640166914579915
+      Splash 010_2: 9065003876929600262
+      Splash 010_20: -2558281521895529524
+      Splash 010_21: 1201982377988920594
+      Splash 010_22: -5163319589450341154
+      Splash 010_23: -2934741939871986697
+      Splash 010_24: 5816192843906973485
+      Splash 010_25: 2095507382869465907
+      Splash 010_26: -945290949822890302
+      Splash 010_27: 8495105640914346594
+      Splash 010_28: -6676269327809382776
+      Splash 010_29: 1589813264829128774
+      Splash 010_3: 8215797408734774231
+      Splash 010_30: 662523938516152460
+      Splash 010_31: -1884440386242632072
+      Splash 010_32: 7751550034171687558
+      Splash 010_33: 591431174342178298
+      Splash 010_34: 588938081642963198
+      Splash 010_35: -3158078171176699495
+      Splash 010_36: -2320193545245087574
+      Splash 010_37: -7689718283955867632
+      Splash 010_38: 4457709517645525264
+      Splash 010_39: -8518650455538078740
+      Splash 010_4: 2717236659820044677
+      Splash 010_40: 4710900242283181646
+      Splash 010_41: 8357596338087599120
+      Splash 010_42: 6232419014086395293
+      Splash 010_43: -3148975731451140111
+      Splash 010_44: -2978228363809596308
+      Splash 010_45: 5796014983161507224
+      Splash 010_46: -7902940643417269521
+      Splash 010_47: 9210117471575188872
+      Splash 010_48: 4453184502073971411
+      Splash 010_49: -6498684210028883582
+      Splash 010_5: 62419961347643212
+      Splash 010_50: -3330917736602521616
+      Splash 010_51: -6202359513858648989
+      Splash 010_52: 5354935419955652625
+      Splash 010_53: -2698667729487091576
+      Splash 010_54: 223722169872832610
+      Splash 010_55: 7284637671350885542
+      Splash 010_56: 3573036010240228839
+      Splash 010_57: -1187863961151170062
+      Splash 010_58: -8697178674798337139
+      Splash 010_59: 247791454655618548
+      Splash 010_6: -7435358184537800673
+      Splash 010_60: -6851558865250753168
+      Splash 010_61: -788890755907021557
+      Splash 010_62: -995796444645052928
+      Splash 010_63: -8787691568785499869
+      Splash 010_64: 7002121851444880798
+      Splash 010_65: 4567530291862498205
+      Splash 010_66: 7313052744485897578
+      Splash 010_67: -7208077468415321904
+      Splash 010_68: -7934599841951700715
+      Splash 010_69: -7260470313457561831
+      Splash 010_7: -2496435384875598544
+      Splash 010_70: 1188437834597033478
+      Splash 010_71: -3809997841296242270
+      Splash 010_72: -1830007347895360876
+      Splash 010_73: 8296526242890214166
+      Splash 010_74: 6956026974348035998
+      Splash 010_75: 1904091211979914957
+      Splash 010_76: -2628774783297309640
+      Splash 010_77: -6699886379416035387
+      Splash 010_78: 6780162706594851885
+      Splash 010_79: -8789054679808072031
+      Splash 010_8: 6296704186796028490
+      Splash 010_80: 2745198754114430967
+      Splash 010_81: 7396111995817992102
+      Splash 010_82: -8308133474817290117
+      Splash 010_83: -4231802239696297259
+      Splash 010_84: -7811092323209435271
+      Splash 010_85: 6844765481804422490
+      Splash 010_86: -7443855596086631270
+      Splash 010_87: 2895533384750485724
+      Splash 010_88: 362204036216069707
+      Splash 010_89: -8383893816070906829
+      Splash 010_9: -703496396412247993
+      Splash 010_90: -2022317450189281255
+      Splash 010_91: 7845954904773333689
+      Splash 010_92: 3980623666505618835
+      Splash 010_93: 5583645775070085069
+      Splash 010_94: 4955855078560110491
+      Splash 010_95: 4715048554225834885
+      Splash 010_96: 8758459134595545006
+      Splash 010_97: -1192005540342983331
+      Splash 010_98: -5046675330860064322
+      Splash 010_99: 655640998045095578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

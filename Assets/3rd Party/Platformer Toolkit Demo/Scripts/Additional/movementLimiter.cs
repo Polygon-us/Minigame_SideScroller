@@ -15,7 +15,7 @@ namespace GMTK.PlatformerToolkit {
             instance = this;
         }
 
-        private void Start() {
+        private void Awake() {
             CharacterCanMove = _initialCharacterCanMove;
         }
     }

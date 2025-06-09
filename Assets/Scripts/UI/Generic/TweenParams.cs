@@ -1,4 +1,5 @@
 using System;
+using DG.Tweening;
 
 namespace UI.Generic
 {
@@ -6,7 +7,7 @@ namespace UI.Generic
     public class TweenParams
     {
         public float duration = 0.2f;
-        public LeanTweenType inType = LeanTweenType.easeOutCubic;
-        public LeanTweenType outType = LeanTweenType.easeInCirc;
+        public Ease inType = Ease.InCirc;
+        public Ease outType = Ease.OutCirc;
     }
 }
