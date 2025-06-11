@@ -264,6 +264,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1534,7 +1547,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Splash 004_0: 3658843583549303710
+      Splash 004_1: 3975781948964093335
+      Splash 004_10: 6901117909469727661
+      Splash 004_11: -784993747993066459
+      Splash 004_12: 5915865070584252126
+      Splash 004_13: -8083549843530794425
+      Splash 004_14: 6276759461617601995
+      Splash 004_15: -1221959314869395994
+      Splash 004_16: -5919810135481688132
+      Splash 004_17: 567813613125545010
+      Splash 004_18: -2516226007435093415
+      Splash 004_19: -1677831587862404847
+      Splash 004_2: 4309913252517365738
+      Splash 004_20: -4076851911367305212
+      Splash 004_21: -6105329128211374221
+      Splash 004_22: 7082064783344810722
+      Splash 004_23: 7907067793252696125
+      Splash 004_24: 3900668053151238829
+      Splash 004_25: 5457816547178936225
+      Splash 004_26: 3510083779425634291
+      Splash 004_27: 7818894757229354566
+      Splash 004_28: -7870134318003689967
+      Splash 004_29: 873159696366378272
+      Splash 004_3: 6712862961747899829
+      Splash 004_30: 1944299394189051028
+      Splash 004_31: -7912148139195650744
+      Splash 004_32: 5116459184511887102
+      Splash 004_33: -1075240142565216085
+      Splash 004_34: 8900061056943841546
+      Splash 004_35: 1072985926401426894
+      Splash 004_36: 4570709006386882085
+      Splash 004_37: 6217745731749536315
+      Splash 004_38: -2316054745398835251
+      Splash 004_39: -1773889529627330164
+      Splash 004_4: 4954999597971548719
+      Splash 004_40: 5936400481387255986
+      Splash 004_41: 7051268494592883161
+      Splash 004_42: -7056250557216239905
+      Splash 004_43: 3128168027749956936
+      Splash 004_44: -8896167787260156161
+      Splash 004_45: -3331510922848071751
+      Splash 004_46: 6705887686744081871
+      Splash 004_47: 7295932107053065302
+      Splash 004_48: -9203674079415831491
+      Splash 004_49: 8621086045583246056
+      Splash 004_5: -9048235783335561747
+      Splash 004_50: -1747093669890760209
+      Splash 004_51: -2464415577539232394
+      Splash 004_52: 4275566719927090644
+      Splash 004_53: 7587879174846466749
+      Splash 004_54: -4126002557034349111
+      Splash 004_55: 597680358184821195
+      Splash 004_56: 112197775691831526
+      Splash 004_6: -8896870309551496743
+      Splash 004_7: -4395990858042251176
+      Splash 004_8: -2470614074228458617
+      Splash 004_9: -2170953843699892739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

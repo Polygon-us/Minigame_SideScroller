@@ -132,6 +132,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -434,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ring_001_0: 2296287196859741341
+      Ring_001_1: 8621227249635726568
+      Ring_001_10: -1601401865450396637
+      Ring_001_11: 3376309840218694838
+      Ring_001_12: -5514193058229628962
+      Ring_001_2: 8152702914133542934
+      Ring_001_3: 5715342773115823173
+      Ring_001_4: -7556906357294291524
+      Ring_001_5: -753071925053606841
+      Ring_001_6: 1444825662130992104
+      Ring_001_7: -9196547746612625140
+      Ring_001_8: 6631584816716445752
+      Ring_001_9: 2737442048557606526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
