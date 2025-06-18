@@ -354,6 +354,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2284,7 +2297,94 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Splash_Comp_2_0: 373637112674665212
+      Splash_Comp_2_1: 7896089114456179724
+      Splash_Comp_2_10: 550939544220431704
+      Splash_Comp_2_11: -1984447450538149354
+      Splash_Comp_2_12: 2189570901963405476
+      Splash_Comp_2_13: 3760768178076702039
+      Splash_Comp_2_14: 881017620788204983
+      Splash_Comp_2_15: -8963114333121985488
+      Splash_Comp_2_16: 6662544433766408779
+      Splash_Comp_2_17: 2170979731349655035
+      Splash_Comp_2_18: 3167459206785636787
+      Splash_Comp_2_19: 4516597994877319791
+      Splash_Comp_2_2: 3859042265036913846
+      Splash_Comp_2_20: 3477617524396261662
+      Splash_Comp_2_21: -8462755431924647476
+      Splash_Comp_2_22: -2743147082262102265
+      Splash_Comp_2_23: -1829224143416966572
+      Splash_Comp_2_24: 6077375008223217321
+      Splash_Comp_2_25: -3404587253158244856
+      Splash_Comp_2_26: -3020953869253649654
+      Splash_Comp_2_27: -4989886765532084692
+      Splash_Comp_2_28: 787784610721874225
+      Splash_Comp_2_29: -5421948531812387110
+      Splash_Comp_2_3: 5157091909454587237
+      Splash_Comp_2_30: 1566676272921441123
+      Splash_Comp_2_31: -8569748753278013665
+      Splash_Comp_2_32: 7813027678141677947
+      Splash_Comp_2_33: 9154091363685812406
+      Splash_Comp_2_34: -2657122864151020024
+      Splash_Comp_2_35: 4185935681278675098
+      Splash_Comp_2_36: -4302960495315212869
+      Splash_Comp_2_37: 1837159253954520289
+      Splash_Comp_2_38: -5173853280245751685
+      Splash_Comp_2_39: -7757342250260083712
+      Splash_Comp_2_4: -5850832491870679874
+      Splash_Comp_2_40: -9198217217130918803
+      Splash_Comp_2_41: -3007996191742553362
+      Splash_Comp_2_42: 6737757003446677510
+      Splash_Comp_2_43: 2188507836477420995
+      Splash_Comp_2_44: -2182560530056110564
+      Splash_Comp_2_45: 5658017199772904191
+      Splash_Comp_2_46: 7501387613093514803
+      Splash_Comp_2_47: -8279405631221719181
+      Splash_Comp_2_48: -7814801426952758873
+      Splash_Comp_2_49: 346994976020173236
+      Splash_Comp_2_5: -5352320050107318657
+      Splash_Comp_2_50: -4959546109347246690
+      Splash_Comp_2_51: 2829516162135944494
+      Splash_Comp_2_52: 7711742841071120548
+      Splash_Comp_2_53: 3362866506162080197
+      Splash_Comp_2_54: -2521762225724762121
+      Splash_Comp_2_55: -1889096805146386530
+      Splash_Comp_2_56: -8195482238754360359
+      Splash_Comp_2_57: 5065504634554630180
+      Splash_Comp_2_58: -3045947311328912792
+      Splash_Comp_2_59: -2687533728080920127
+      Splash_Comp_2_6: 4996276068041036719
+      Splash_Comp_2_60: 6620214524742937429
+      Splash_Comp_2_61: 5026807436951058427
+      Splash_Comp_2_62: 5077916933187031468
+      Splash_Comp_2_63: 987830827391363704
+      Splash_Comp_2_64: -4217158491444190787
+      Splash_Comp_2_65: 8309862751341011269
+      Splash_Comp_2_66: -1864827609711928732
+      Splash_Comp_2_67: -241957336798231163
+      Splash_Comp_2_68: 1509236622768558898
+      Splash_Comp_2_69: 3288656479749699186
+      Splash_Comp_2_7: 4229490395909053015
+      Splash_Comp_2_70: -5553428126570340947
+      Splash_Comp_2_71: 699993964133361295
+      Splash_Comp_2_72: -8738412997591738123
+      Splash_Comp_2_73: 4234606316985746836
+      Splash_Comp_2_74: 3384398113647785158
+      Splash_Comp_2_75: -2747718681755649962
+      Splash_Comp_2_76: 6247501591882125443
+      Splash_Comp_2_77: -7433941831189246449
+      Splash_Comp_2_78: 2212118889139551954
+      Splash_Comp_2_79: -7773570933380434813
+      Splash_Comp_2_8: 8447425550662880286
+      Splash_Comp_2_80: 1951397596649833473
+      Splash_Comp_2_81: -4346480783258493419
+      Splash_Comp_2_82: -8555377066249969860
+      Splash_Comp_2_83: 4239325931997501769
+      Splash_Comp_2_84: 6907913030998716372
+      Splash_Comp_2_85: 6555525463771683814
+      Splash_Comp_2_86: -1524798241043192800
+      Splash_Comp_2_9: 7083815462866394156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

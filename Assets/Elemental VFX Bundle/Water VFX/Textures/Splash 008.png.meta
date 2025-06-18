@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Splash 008_0: -5843425591443185293
+      Splash 008_1: -3919288980725779774
+      Splash 008_10: -284509676852850003
+      Splash 008_11: -5842524618841366569
+      Splash 008_12: 580001546639654570
+      Splash 008_13: 8851936052249907384
+      Splash 008_14: 8418513195399524336
+      Splash 008_15: -247979379608917667
+      Splash 008_2: 661251074879023522
+      Splash 008_3: 6805390456986224021
+      Splash 008_4: 3541365451454630482
+      Splash 008_5: 4114200630228101148
+      Splash 008_6: -9086524807584749476
+      Splash 008_7: 1536618329306498113
+      Splash 008_8: 1291747580679134388
+      Splash 008_9: 2709560251054633712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

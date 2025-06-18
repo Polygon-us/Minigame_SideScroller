@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spark Comp_002_02_0: -8507481628050927967
+      Spark Comp_002_02_1: -287160625890010759
+      Spark Comp_002_02_10: -9169179013674060468
+      Spark Comp_002_02_11: 4404581823419946384
+      Spark Comp_002_02_12: -919331210557970834
+      Spark Comp_002_02_13: 7087551153637223211
+      Spark Comp_002_02_14: 4629703408591048027
+      Spark Comp_002_02_15: 4456508455271874354
+      Spark Comp_002_02_16: 7746003102042852218
+      Spark Comp_002_02_17: 8352661101952329854
+      Spark Comp_002_02_2: -8970214319905927469
+      Spark Comp_002_02_3: -7410160367107345913
+      Spark Comp_002_02_4: -394843701247681188
+      Spark Comp_002_02_5: -6961601727323249271
+      Spark Comp_002_02_6: -2216579780060014962
+      Spark Comp_002_02_7: 1515536483055454743
+      Spark Comp_002_02_8: -3581056753958630283
+      Spark Comp_002_02_9: -7806544935287542981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

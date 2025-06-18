@@ -138,6 +138,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -484,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tornado_001_Comp_001_0: 9038798445192964569
+      Tornado_001_Comp_001_1: -7176681652323173671
+      Tornado_001_Comp_001_10: -1063199325311736716
+      Tornado_001_Comp_001_11: 3840398268387001277
+      Tornado_001_Comp_001_12: 1073240889292591878
+      Tornado_001_Comp_001_13: -6931335821910694485
+      Tornado_001_Comp_001_14: -8029781696703741800
+      Tornado_001_Comp_001_2: 3047529568973941389
+      Tornado_001_Comp_001_3: -7386820176584755244
+      Tornado_001_Comp_001_4: 2028441781729887547
+      Tornado_001_Comp_001_5: 971783342581987803
+      Tornado_001_Comp_001_6: -7674645407342785832
+      Tornado_001_Comp_001_7: 3578082062819714888
+      Tornado_001_Comp_001_8: -3775400344255005651
+      Tornado_001_Comp_001_9: -1851358873016887506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

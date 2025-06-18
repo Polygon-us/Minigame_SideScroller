@@ -129,6 +129,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -409,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dash_Wind_001_0: 7888913326837540704
+      Dash_Wind_001_1: -5500799159063932660
+      Dash_Wind_001_10: -4864241438473183707
+      Dash_Wind_001_11: -1590364032472566563
+      Dash_Wind_001_2: -472214122783173852
+      Dash_Wind_001_3: -2397151069367593706
+      Dash_Wind_001_4: 3340533210841194471
+      Dash_Wind_001_5: -3933518411951303425
+      Dash_Wind_001_6: -3298178148684010569
+      Dash_Wind_001_7: 5637047461029005443
+      Dash_Wind_001_8: -4873523025838307773
+      Dash_Wind_001_9: -4760687198283652504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
