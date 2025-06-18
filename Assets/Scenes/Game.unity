@@ -5513,10 +5513,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: BushB_blur (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 8014565521139776640, guid: 9c6e5a00323eed747a1a5dbcb44b6f6c, type: 3}
-      propertyPath: m_SortingOrder
-      value: 20
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5821,10 +5817,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 852292997}
     m_Modifications:
-    - target: {fileID: 3776283021109846126, guid: fe8c186078327e8448705b49d15bd384, type: 3}
-      propertyPath: m_SortingOrder
-      value: 20
-      objectReference: {fileID: 0}
     - target: {fileID: 4053915101532598582, guid: fe8c186078327e8448705b49d15bd384, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.79671
@@ -20959,14 +20951,6 @@ PrefabInstance:
       propertyPath: m_SortingLayer
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 830234308027116067, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
-      propertyPath: m_SortingOrder
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 830234308027116067, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1342319822596160199, guid: 65b64ae5596186b47a4e484ba2188681, type: 3}
       propertyPath: jumpSFX
       value: 
@@ -21300,10 +21284,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 852292997}
     m_Modifications:
-    - target: {fileID: 418575860210019444, guid: e5bf793365ec94548bd5730a8c3a69bb, type: 3}
-      propertyPath: m_SortingOrder
-      value: 25
-      objectReference: {fileID: 0}
     - target: {fileID: 4473006772383311493, guid: e5bf793365ec94548bd5730a8c3a69bb, type: 3}
       propertyPath: m_Name
       value: FenceB_blur
@@ -21425,10 +21405,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 852292997}
     m_Modifications:
-    - target: {fileID: 3776283021109846126, guid: fe8c186078327e8448705b49d15bd384, type: 3}
-      propertyPath: m_SortingOrder
-      value: 25
-      objectReference: {fileID: 0}
     - target: {fileID: 4053915101532598582, guid: fe8c186078327e8448705b49d15bd384, type: 3}
       propertyPath: m_LocalPosition.x
       value: -110.35
@@ -21529,10 +21505,6 @@ PrefabInstance:
     - target: {fileID: 5954410077927624257, guid: 9c6e5a00323eed747a1a5dbcb44b6f6c, type: 3}
       propertyPath: m_Name
       value: BushB_blur
-      objectReference: {fileID: 0}
-    - target: {fileID: 8014565521139776640, guid: 9c6e5a00323eed747a1a5dbcb44b6f6c, type: 3}
-      propertyPath: m_SortingOrder
-      value: 25
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21800,10 +21772,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 852292997}
     m_Modifications:
-    - target: {fileID: 1356109291326447618, guid: e9b3e107f3eb62543bc97983b9f41165, type: 3}
-      propertyPath: m_SortingOrder
-      value: 19
-      objectReference: {fileID: 0}
     - target: {fileID: 3460106780718971764, guid: e9b3e107f3eb62543bc97983b9f41165, type: 3}
       propertyPath: m_Name
       value: FenceA_blur
